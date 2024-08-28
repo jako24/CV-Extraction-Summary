@@ -118,11 +118,11 @@ Consider a combination of models for optimal performance:
 - **LLaMA 3.1:** For detailed reasoning and specialized knowledge extraction.
 - **Gemma:** For generating professional and high-quality summaries.
 
+For more information, visit [artificialanalysis.ai/models](https://artificialanalysis.ai/models).
+
 ## Conclusion
 
 This project provides an advanced system for extracting and comparing resume data with job descriptions, making it an invaluable tool for recruiters. By combining different text extraction techniques and leveraging AI for summary generation, it ensures that recruiters can make informed decisions based on comprehensive candidate evaluations.
-
-For more information, visit [artificialanalysis.ai/models](https://artificialanalysis.ai/models).
 
 ## License
 
