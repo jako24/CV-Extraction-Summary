@@ -1,0 +1,6918 @@
+FileName,PDFLoaderExtraction,OCRExtraction,CorrectExtraction,Attributes,LoaderAccuracy,OCRAccuracy,CombinedOCRPDFExtraction,EasyOCRExtraction,CombinedOCRAccuracy,EasyOCRAccuracy
+1005.pdf,"{
+  ""name"": ""sanjeet kumar"",
+  ""contact_info"": {
+    ""email"": ""sanjeetkumar900@gmail.com"",
+    ""phone"": ""09650421494""
+  },
+  ""education"": [
+    {
+      ""degree"": ""mba (finance)"",
+      ""branch"": """",
+      ""institution"": ""ignou"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""one year diploma in financial accounting"",
+      ""branch"": """",
+      ""institution"": ""brainware computer academy, dhanbad"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""b.com (h)"",
+      ""branch"": """",
+      ""institution"": ""vinoba bhave university, hazaribagh"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""centum learning ltd (a bharti associate company)"",
+      ""job_title"": ""associate"",
+      ""start_date"": ""feb 2013"",
+      ""end_date"": ""dec 2013""
+    },
+    {
+      ""company_name"": ""dev news network pvt ltd"",
+      ""job_title"": ""account executive"",
+      ""start_date"": ""feb 2014"",
+      ""end_date"": ""nov 2014""
+    },
+    {
+      ""company_name"": ""suez environment india"",
+      ""job_title"": ""billing analyst"",
+      ""start_date"": ""dec 2014"",
+      ""end_date"": ""sept 2015""
+    },
+    {
+      ""company_name"": ""american express"",
+      ""job_title"": ""business analyst"",
+      ""start_date"": ""oct 2015"",
+      ""end_date"": ""till now""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""tally"",
+      ""microsoft office"",
+      ""windows 7"",
+      ""oracle""
+    ],
+    ""soft_skills"": [
+      ""analytical ability"",
+      ""negotiation skills"",
+      ""communication and presentation skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""sanjeet kumar"",
+  ""contact_info"": {
+    ""email"": ""sanjeetkumar9oo@gmailcom"",
+    ""phone"": ""09650421494""
+  },
+  ""education"": [
+    {
+      ""degree"": ""mba (finance)"",
+      ""branch"": ""ignou full time"",
+      ""institution"": ""ignou"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""one year diploma in financial accounting"",
+      ""branch"": ""brainware computer academy dhanbad"",
+      ""institution"": ""brainware computer academy"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""b.com (h)"",
+      ""branch"": ""vinoba bhave university hazaribagh"",
+      ""institution"": ""vinoba bhave university"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""centum learning ltd (a bharti associate company) new delhi"",
+      ""job_title"": ""associate"",
+      ""start_date"": ""feb 2013"",
+      ""end_date"": ""dec 2013""
+    },
+    {
+      ""company_name"": ""dev news network pvt ltd"",
+      ""job_title"": ""account executive"",
+      ""start_date"": ""feb 2014"",
+      ""end_date"": ""nov 2014""
+    },
+    {
+      ""company_name"": ""suez environment india"",
+      ""job_title"": ""billing analyst"",
+      ""start_date"": ""dec 2014"",
+      ""end_date"": ""sept 2015""
+    },
+    {
+      ""company_name"": ""american express"",
+      ""job_title"": ""business analyst"",
+      ""start_date"": ""oct 2015"",
+      ""end_date"": ""till now""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""knowledge of tally"",
+      ""microsoft office"",
+      ""windows 7"",
+      ""oracle""
+    ],
+    ""soft_skills"": [
+      ""analytical ability"",
+      ""negotiation skills"",
+      ""communication and presentation skills"",
+      ""positive motivator and persuader""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""sanjeet kumar"",
+  ""contact_info"": {
+    ""email"": ""sanjeetkumar900@gmail.com"",
+    ""phone"": ""09650421494""
+  },
+  ""education"": [
+    {
+      ""degree"": ""mba (finance)"",
+      ""branch"": ""ignou full time"",
+      ""institution"": ""ignou"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""one year diploma in financial accounting"",
+      ""branch"": ""brainware computer academy dhanbad"",
+      ""institution"": ""brainware computer academy"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""b.com (h)"",
+      ""branch"": """",
+      ""institution"": ""vinoba bhave university"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""centum learning ltd (a bharti associate company) new delhi"",
+      ""job_title"": ""associate"",
+      ""start_date"": ""feb 2013"",
+      ""end_date"": ""dec 2013""
+    },
+    {
+      ""company_name"": ""dev news network pvt ltd"",
+      ""job_title"": ""account executive"",
+      ""start_date"": ""feb 2014"",
+      ""end_date"": ""nov 2014""
+    },
+    {
+      ""company_name"": ""suez environment india"",
+      ""job_title"": ""billing analyst"",
+      ""start_date"": ""dec 2014"",
+      ""end_date"": ""sept 2015""
+    },
+    {
+      ""company_name"": ""american express"",
+      ""job_title"": ""business analyst"",
+      ""start_date"": ""oct 2015"",
+      ""end_date"": ""till now""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""knowledge of tally"",
+      ""microsoft office"",
+      ""windows 7"",
+      ""oracle""
+    ],
+    ""soft_skills"": [
+      ""analytical ability"",
+      ""negotiation skills"",
+      ""communication and presentation skills"",
+      ""positive motivator and persuader""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 2
+  }
+}",ExtractedInformation,93.94,97.93,"{
+  ""name"": ""sanjeet kumar"",
+  ""contact_info"": {
+    ""email"": ""sanjeetkumar9oo@gmail_com"",
+    ""phone"": ""09650421494""
+  },
+  ""education"": [
+    {
+      ""degree"": ""mba (finance)"",
+      ""branch"": """",
+      ""institution"": ""ignou"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""one year diploma in financial accounting"",
+      ""branch"": """",
+      ""institution"": ""brainware computer academy dhanbad"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""b.com (h)"",
+      ""branch"": """",
+      ""institution"": ""vinoba bhave university hazaribagh"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""centum learning ltd (a bharti associate company)"",
+      ""job_title"": ""associate"",
+      ""start_date"": ""feb 2013"",
+      ""end_date"": ""dec 2013""
+    },
+    {
+      ""company_name"": ""dev news network pvt ltd."",
+      ""job_title"": ""account executive"",
+      ""start_date"": ""feb 2014"",
+      ""end_date"": ""nov 2014""
+    },
+    {
+      ""company_name"": ""suez environment india"",
+      ""job_title"": ""billing analyst"",
+      ""start_date"": ""dec 2014"",
+      ""end_date"": ""sept.2015""
+    },
+    {
+      ""company_name"": ""american express"",
+      ""job_title"": ""business analyst"",
+      ""start_date"": ""oct 2015"",
+      ""end_date"": ""till now""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""knowledge of tally"",
+      ""microsoft office suite"",
+      ""windows 7"",
+      ""oracle""
+    ],
+    ""soft_skills"": [
+      ""analytical ability"",
+      ""negotiation skills"",
+      ""communication and presentation skills"",
+      ""positive motivator and persuader""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""sanjeet kumar"",
+  ""contact_info"": {
+    ""email"": ""sanjeetkumar9oo@gmail_com"",
+    ""phone"": ""09650421494""
+  },
+  ""education"": [
+    {
+      ""degree"": ""mba (finance)"",
+      ""branch"": """",
+      ""institution"": ""ignou"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""one year diploma in financial accounting"",
+      ""branch"": """",
+      ""institution"": ""brainware computer academy, dhanbad"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""b.com(h)"",
+      ""branch"": """",
+      ""institution"": ""vinoba bhave university, hazaribagh"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""centum learning ltd (a bharti associate company)"",
+      ""job_title"": ""associate"",
+      ""start_date"": ""feb 2013"",
+      ""end_date"": ""dec 2013""
+    },
+    {
+      ""company_name"": ""dev news network pvt ltd"",
+      ""job_title"": ""account executive"",
+      ""start_date"": ""feb 2014"",
+      ""end_date"": ""nov 2014""
+    },
+    {
+      ""company_name"": ""suez environment india"",
+      ""job_title"": ""billing analyst"",
+      ""start_date"": ""dec 2014"",
+      ""end_date"": ""sept.2015""
+    },
+    {
+      ""company_name"": ""american express"",
+      ""job_title"": ""business analyst"",
+      ""start_date"": ""oct 2015"",
+      ""end_date"": ""till now""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""tally"",
+      ""microsoft office"",
+      ""excel"",
+      ""windows"",
+      ""power point"",
+      ""access"",
+      ""internet"",
+      ""typing speed of 42 words per minute"",
+      ""oracle""
+    ],
+    ""soft_skills"": [
+      ""analytical ability"",
+      ""negotiation skills"",
+      ""communication and presentation skills"",
+      ""motivator and persuader""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 2
+  }
+}",94.35,89.99
+1009.pdf,"{
+  ""name"": ""ousaaf ahmed"",
+  ""contact_info"": {
+    ""email"": ""ousaafhashmi@yahoo.com"",
+    ""phone"": ""+919045071505""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b pharma"",
+      ""branch"": ""pharmacy"",
+      ""institution"": ""siddhartha institute of pharmacy"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""basic computer applications""
+    ],
+    ""soft_skills"": []
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""ousaaf ahmed"",
+  ""contact_info"": {
+    ""email"": ""ousaafhashmi@yahoo.com"",
+    ""phone"": ""+919045071505""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b pharma"",
+      ""branch"": ""pharmacy"",
+      ""institution"": ""siddhartha institute of pharmacy"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": ""physics, chemistry, biology, computer science"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""basic computer applications""
+    ],
+    ""soft_skills"": []
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""ousaaf ahmed"",
+  ""contact_info"": {
+    ""email"": ""ousaafhashmi@yahoo.com"",
+    ""phone"": ""+919045071505""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b pharma"",
+      ""branch"": ""pharmacy"",
+      ""institution"": ""siddhartha institute of pharmacy"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": ""physics, chemistry, biology, computer science"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""basic computer applications""
+    ],
+    ""soft_skills"": []
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",ExtractedInformation,76.53,83.33,"{
+  ""name"": ""ousaaf ahmed"",
+  ""contact_info"": {
+    ""email"": ""ousaafhashmi@yahoo.com"",
+    ""phone"": ""+919045071505""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.pharma"",
+      ""branch"": ""pharmacy"",
+      ""institution"": ""siddhartha institute of pharmacy"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": ""physics, chemistry, biology, computer science"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""basic computer applications"",
+      ""basic computer application""
+    ],
+    ""soft_skills"": []
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""ousaaf ahmed"",
+  ""contact_info"": {
+    ""email"": ""ousaafhashmi@yahoo.com"",
+    ""phone"": ""+919045071505""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.pharma"",
+      ""branch"": ""pharmacy"",
+      ""institution"": ""siddhartha institute of pharmacy"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": ""physics, chemistry, biology, computer science"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""jkbose"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""basic computer applications""
+    ],
+    ""soft_skills"": []
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",80.38,83.16
+1035-pic.pdf,"{
+  ""name"": ""john doe"",
+  ""contact_info"": {
+    ""email"": ""johndoe@example.com"",
+    ""phone"": ""123-456-7890""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""computer science"",
+      ""institution"": ""university of abc"",
+      ""graduation_date"": ""may 2015""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""tech company xyz"",
+      ""job_title"": ""software engineer"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""java"",
+      ""python"",
+      ""sql""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""problem-solving"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""mumtaz ahmad"",
+  ""contact_info"": {
+    ""email"": ""mumtazahmad154@gmail.com"",
+    ""phone"": ""+91 8130323154 / +91 7294036699""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in computer application"",
+      ""branch"": ""computer science"",
+      ""institution"": ""institute name not provided"",
+      ""graduation_date"": ""25th september 2012""
+    },
+    {
+      ""degree"": ""intermediate (i.sc.)"",
+      ""branch"": ""science"",
+      ""institution"": ""a.n. college, patna"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""matriculation"",
+      ""branch"": ""not specified"",
+      ""institution"": ""bihar school examination board, patna"",
+      ""graduation_date"": ""2005""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""punj lloyd ltd"",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""10th may 2008"",
+      ""end_date"": ""12th april 2012""
+    },
+    {
+      ""company_name"": ""shibh al jazira cont company"",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""2nd october 2013"",
+      ""end_date"": ""25th february 2016""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms-office"",
+      ""tally"",
+      ""ms-excel"",
+      ""ms-word"",
+      ""powerpoint"",
+      ""ms-access""
+    ],
+    ""soft_skills"": [
+      ""hard working"",
+      ""reading magazines"",
+      ""good communication skills"",
+      ""highly motivated""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 6,
+    ""months"": 3
+  }
+}","{
+  ""name"": ""mumtaz ahmad"",
+  ""contact_info"": {
+    ""email"": ""mumtazahmed52@gmail.com"",
+    ""phone"": ""+91 8130323154 / +91 7294036699""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in computer application"",
+      ""branch"": ""computer science"",
+      ""institution"": ""Computer Care & Care"",
+      ""graduation_date"": ""25th september 2012""
+    },
+    {
+      ""degree"": ""intermediate (i.sc.)"",
+      ""branch"": ""science"",
+      ""institution"": ""a.n. college, patna"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""matriculation"",
+      ""branch"": ""not specified"",
+      ""institution"": ""bihar school examination board, patna"",
+      ""graduation_date"": ""2005""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""punj lloyd ltd"",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""10th may 2008"",
+      ""end_date"": ""12th april 2012""
+    },
+    {
+      ""company_name"": ""shibh al jazira cont company"",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""2nd october 2013"",
+      ""end_date"": ""25th february 2016""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms-office"",
+      ""tally"",
+      ""ms-excel"",
+      ""ms-word"",
+      ""powerpoint"",
+      ""ms-access""
+    ],
+    ""soft_skills"": [
+      ""hard working"",
+      ""reading magazines"",
+      ""good communication skills"",
+      ""highly motivated""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 6,
+    ""months"": 3
+  }
+}",ExtractedInformation,21.38,98.68,"{
+  ""name"": ""mumtaz ahmad geyasuddin ahmad"",
+  ""contact_info"": {
+    ""email"": ""ahmnals@gmuil.com"",
+    ""phone"": ""8130323154, 91 7294036699""
+  },
+  ""education"": [
+    {
+      ""degree"": ""intermediate (l sc)"",
+      ""branch"": ""science"",
+      ""institution"": ""bieb patna"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""matriculation"",
+      ""branch"": null,
+      ""institution"": ""bseb patna"",
+      ""graduation_date"": ""2005""
+    },
+    {
+      ""degree"": ""advance diploma in computer application"",
+      ""branch"": null,
+      ""institution"": null,
+      ""graduation_date"": null
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""punj lloyad ltd."",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""10/05/2008"",
+      ""end_date"": ""12/04/2012""
+    },
+    {
+      ""company_name"": ""shibh al jazira general contractors"",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""02/10/2013"",
+      ""end_date"": ""25/02/2016""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""experience in working through the erp system"",
+      ""ms-word"",
+      ""ms-access"",
+      ""knowledge of basic computer applications"",
+      ""data entry"",
+      ""accounting (tally 7.2, 9.4, and erf)"",
+      ""ms-excel 2003"",
+      ""payroll""
+    ],
+    ""soft_skills"": [
+      ""team player"",
+      ""reading magazines"",
+      ""quick learner"",
+      ""problem-solving skills"",
+      ""optimistic approach"",
+      ""result-oriented"",
+      ""hard working"",
+      ""good communication skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 7,
+    ""months"": 1
+  }
+}","{
+  ""name"": ""mumtaz ahmad geyasuddin ahmad"",
+  ""contact_info"": {
+    ""email"": ""ahmnals@gmuil.com"",
+    ""phone"": ""8130323154, 91 7294036699""
+  },
+  ""education"": [
+    {
+      ""degree"": ""intermediate (l sc)"",
+      ""branch"": ""science"",
+      ""institution"": ""bieb patna"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""matriculation"",
+      ""branch"": """",
+      ""institution"": ""bseb patna"",
+      ""graduation_date"": ""2005""
+    },
+    {
+      ""degree"": ""advance diploma in computer application"",
+      ""branch"": """",
+      ""institution"": """",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""punj lloyd ltd."",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""10/05/2008"",
+      ""end_date"": ""12/04/2012""
+    },
+    {
+      ""company_name"": ""shibh al jazira construction company (ksa)"",
+      ""job_title"": ""documents controller"",
+      ""start_date"": ""02/10/2013"",
+      ""end_date"": ""25/02/2016""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""knowledge of basic computer applications"",
+      ""erp system"",
+      ""accounting"",
+      ""tally"",
+      ""ms-excel"",
+      ""ms-word"",
+      ""ms-access""
+    ],
+    ""soft_skills"": [
+      ""hard working"",
+      ""reading"",
+      ""adaptability"",
+      ""communication skills"",
+      ""problem solving"",
+      ""teamwork""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 7,
+    ""months"": 1
+  }
+}",36.61,41.1
+1056.pdf,"{
+  ""name"": ""arockia juslin deepan"",
+  ""contact_info"": {
+    ""email"": ""deepaneee2010@gmail.com"",
+    ""phone"": ""971558058375""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electrical & electronics"",
+      ""institution"": ""anna university, india"",
+      ""graduation_date"": ""april 2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""premier composite technology"",
+      ""job_title"": ""project engineer- electrical"",
+      ""start_date"": ""february 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""palmon group of companies"",
+      ""job_title"": ""mep / facility engineer"",
+      ""start_date"": ""january 2013"",
+      ""end_date"": ""january 2015""
+    },
+    {
+      ""company_name"": ""cbre - goms electrical company"",
+      ""job_title"": ""shift engineer-electrical"",
+      ""start_date"": ""november 2011"",
+      ""end_date"": ""october 2012""
+    },
+    {
+      ""company_name"": ""power tech pvt ltd"",
+      ""job_title"": ""site engineer"",
+      ""start_date"": ""september 2010"",
+      ""end_date"": ""august 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical circuits"",
+      ""circuit breakers"",
+      ""induction motors"",
+      ""motor starters"",
+      ""dcadd - autocad""
+    ],
+    ""soft_skills"": [
+      ""self-motivated"",
+      ""initiative taker"",
+      ""deadline-oriented"",
+      ""excellent communication skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 4
+  }
+}","{
+  ""name"": ""arockia juslin deepan"",
+  ""contact_info"": {
+    ""email"": ""deepaneee20@gmail.com"",
+    ""phone"": ""971558058375""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electrical & electronics"",
+      ""institution"": ""anna university, india"",
+      ""graduation_date"": ""april 2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""premier composite technology (dip-2, dubai)"",
+      ""job_title"": ""project engineer- electrical"",
+      ""start_date"": ""february 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""palmon group of companies (jabel ali, dubai)"",
+      ""job_title"": ""mep facility engineer"",
+      ""start_date"": ""january 2013"",
+      ""end_date"": ""january 2015""
+    },
+    {
+      ""company_name"": ""cbre -goms electrical company, india"",
+      ""job_title"": ""shift engineer-electrical"",
+      ""start_date"": ""november 2011"",
+      ""end_date"": ""october 2012""
+    },
+    {
+      ""company_name"": ""power tech pvt ltd, india"",
+      ""job_title"": ""site engineer"",
+      ""start_date"": ""september 2010"",
+      ""end_date"": ""august 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical circuits"",
+      ""circuit breakers"",
+      ""induction motors"",
+      ""motor starters"",
+      ""dcadd"",
+      ""autocad""
+    ],
+    ""soft_skills"": [
+      ""self-motivated"",
+      ""initiative taking"",
+      ""pressure handling"",
+      ""deadline meeting"",
+      ""communication (english, hindi, tamil, malayalam)""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 4
+  }
+}","{
+  ""name"": ""arockia juslin deepan"",
+  ""contact_info"": {
+    ""email"": ""deepaneee2010@gmail.com"",
+    ""phone"": ""971558058375""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electrical & electronics"",
+      ""institution"": ""anna university, india"",
+      ""graduation_date"": ""april 2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""premier composite technology (dip-2, dubai)"",
+      ""job_title"": ""project engineer- electrical"",
+      ""start_date"": ""february 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""palmon group of companies (jabel ali, dubai)"",
+      ""job_title"": ""mep facility engineer"",
+      ""start_date"": ""january 2013"",
+      ""end_date"": ""january 2015""
+    },
+    {
+      ""company_name"": ""cbre -goms electrical company, india"",
+      ""job_title"": ""shift engineer-electrical"",
+      ""start_date"": ""november 2011"",
+      ""end_date"": ""october 2012""
+    },
+    {
+      ""company_name"": ""power tech pvt ltd, india"",
+      ""job_title"": ""site engineer"",
+      ""start_date"": ""september 2010"",
+      ""end_date"": ""august 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical circuits"",
+      ""circuit breakers"",
+      ""induction motors"",
+      ""motor starters"",
+      ""dcadd"",
+      ""autocad""
+    ],
+    ""soft_skills"": [
+      ""self-motivated"",
+      ""initiative taking"",
+      ""pressure handling"",
+      ""deadline meeting"",
+      ""communication (english, hindi, tamil, malayalam)""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 4
+  }
+}",ExtractedInformation,95.9,99.72,"{
+  ""name"": ""arockia juslin deepan"",
+  ""contact_info"": {
+    ""email"": ""deepaneee2010@gmail.com"",
+    ""phone"": ""971558058375""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering (b.e)"",
+      ""branch"": ""electrical"",
+      ""institution"": ""university, india"",
+      ""graduation_date"": ""april 2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""premier composite technology (dip-2, dubai)"",
+      ""job_title"": ""project engineer- electrical"",
+      ""start_date"": ""february 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""palmon group of companies (jabel ali, dubai)"",
+      ""job_title"": ""mep / facility engineer"",
+      ""start_date"": ""january 2013"",
+      ""end_date"": ""january 2015""
+    },
+    {
+      ""company_name"": ""cbre ~goms electrical company, india"",
+      ""job_title"": ""shift engineer-electrical"",
+      ""start_date"": ""november 2011"",
+      ""end_date"": ""october 2012""
+    },
+    {
+      ""company_name"": ""power tech pvt ltd, india"",
+      ""job_title"": ""site engineer"",
+      ""start_date"": ""september 2010"",
+      ""end_date"": ""august 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""motor starters"",
+      ""open office"",
+      ""photo shop"",
+      ""autocad"",
+      ""induction motors"",
+      ""microsoft office (2003, 2007, 2010)"",
+      ""dcadd - autocad"",
+      ""smart sheet application"",
+      ""circuit breakers"",
+      ""powerpoint"",
+      ""electrical circuits"",
+      ""dcadd 5""
+    ],
+    ""soft_skills"": [
+      ""can work under pressure"",
+      ""excellent communication skills"",
+      ""comfortable in taking initiative"",
+      ""work well under pressure"",
+      ""ability to work independently"",
+      ""excellent communication skills in english, hindi, tamil, malayalam"",
+      ""self-motivated"",
+      ""initiative-taking""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 4
+  }
+}","{
+  ""name"": ""arockia juslin deepan"",
+  ""contact_info"": {
+    ""email"": ""deepaneee201o@gmail.com"",
+    ""phone"": ""971558058375""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering (b.e)"",
+      ""branch"": ""electrical"",
+      ""institution"": ""university, india"",
+      ""graduation_date"": ""april 2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""premier composite technology"",
+      ""job_title"": ""project engineer- electrical"",
+      ""start_date"": ""february 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""palmon group of companies"",
+      ""job_title"": ""mep / facility engineer"",
+      ""start_date"": ""january 2013"",
+      ""end_date"": ""january 2015""
+    },
+    {
+      ""company_name"": ""cbre - goms electrical company"",
+      ""job_title"": ""shift engineer-electrical"",
+      ""start_date"": ""november 2011"",
+      ""end_date"": ""october 2012""
+    },
+    {
+      ""company_name"": ""power tech pvt ltd"",
+      ""job_title"": ""site engineer"",
+      ""start_date"": ""september 2010"",
+      ""end_date"": ""august 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical circuits"",
+      ""circuit breakers"",
+      ""induction motors"",
+      ""motor starters"",
+      ""dcadd 5"",
+      ""autocad""
+    ],
+    ""soft_skills"": [
+      ""self-motivated"",
+      ""initiative-taking"",
+      ""meeting deadlines"",
+      ""excellent communication""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 4
+  }
+}",85.17,93.33
+1128.pdf,"{
+  ""name"": ""jagdale darshan iswarbhai"",
+  ""contact_info"": {
+    ""email"": ""darshanjagdale23@gmail.com"",
+    ""phone"": ""+91 9586226120""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""automobile engineering"",
+      ""institution"": ""mahavir swami college of diploma engineering"",
+      ""graduation_date"": ""may 2017""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""katariya motors pvt ltd"",
+      ""job_title"": ""automobile engineer"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""regenerative braking system""
+    ],
+    ""soft_skills"": [
+      ""good communication skills"",
+      ""teamwork"",
+      ""problem-solving""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""jagdale darshan iswarbhai"",
+  ""contact_info"": {
+    ""email"": ""darshanjagdale23@gmail.com"",
+    ""phone"": ""+91 9586226120""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""automobile engineering"",
+      ""institution"": ""mahavir swami college of engineering"",
+      ""graduation_date"": ""may 2017""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""katariya motors pvt ltd"",
+      ""job_title"": ""automotive engineer"",
+      ""start_date"": ""unknown"",
+      ""end_date"": ""4 months duration""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""regenerative braking system"",
+      ""microsoft office 2014""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""problem-solving"",
+      ""communication""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""jagdale darshan iswarbhai"",
+  ""contact_info"": {
+    ""email"": ""darshanjagdale23@gmail.com"",
+    ""phone"": ""+91 9586226120""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""automobile engineering"",
+      ""institution"": ""mahavir swami college of engineering"",
+      ""graduation_date"": ""may 2017""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""katariya motors pvt ltd"",
+      ""job_title"": ""automotive engineer"",
+      ""start_date"": ""unknown"",
+      ""end_date"": ""4 months duration""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""regenerative braking system"",
+      ""microsoft office 2014""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""problem-solving"",
+      ""communication""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",ExtractedInformation,84.61,100.0,"{
+  ""name"": ""jagdale darshan iswarbhai"",
+  ""contact_info"": {
+    ""email"": ""darshanjagdale23@gmail.com"",
+    ""phone"": ""+91 9586226120""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""automobile engineering"",
+      ""institution"": ""mahavir swami college of diploma engineering"",
+      ""graduation_date"": ""may 2017""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""katariya motors pvtltd"",
+      ""job_title"": ""production engineering"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""microsoft office 2014"",
+      ""regenerative braking system""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""problem-solving"",
+      ""microsoft office 2014"",
+      ""teamwork""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""jagdale darshan iswarbhai"",
+  ""contact_info"": {
+    ""email"": ""darshanjagdale23@gmail.com"",
+    ""phone"": ""+91 9586226120""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""automobile engineering"",
+      ""institution"": ""mahavir swami college of diploma"",
+      ""graduation_date"": ""may 2017""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""katariya motors pvt ltd"",
+      ""job_title"": ""production engineering"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""regenerative braking system"",
+      ""microsoft office""
+    ],
+    ""soft_skills"": [
+      ""production planning"",
+      ""maintenance engineering"",
+      ""automates"",
+      ""robotics""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",81.1,81.68
+1187.pdf,"{
+  ""name"": ""abrar ahmad"",
+  ""contact_info"": {
+    ""email"": ""abrarahmad11@yahoo.com"",
+    ""phone"": ""+91 9639619705""
+  },
+  ""education"": [
+    {
+      ""degree"": ""higher secondary school"",
+      ""branch"": """",
+      ""institution"": """",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""abdul aziz ul sugair inv com"",
+      ""job_title"": ""senior electrical foreman"",
+      ""start_date"": ""22nd march 2009"",
+      ""end_date"": ""22nd march 2016""
+    },
+    {
+      ""company_name"": ""blue star showroom"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""march 2005"",
+      ""end_date"": ""february 2009""
+    },
+    {
+      ""company_name"": ""whirlpool"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""april 2002"",
+      ""end_date"": ""march 2005""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""construction"",
+      ""wire loop checking function"",
+      ""installation of power panel, lighting panel, etc."",
+      ""cable gelding and termination with control wiring""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""independence in achieving organizational objectives"",
+      ""ability to work effectively for long hours""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 10
+  }
+}","{
+  ""name"": ""abrar ahmad"",
+  ""contact_info"": {
+    ""email"": ""abrarahmadli@yahoo.com"",
+    ""phone"": ""+91 9639619705""
+  },
+  ""education"": [
+    {
+      ""degree"": ""higher secondary school"",
+      ""branch"": """",
+      ""institution"": """",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""abdul aziz ul sugair inv com"",
+      ""job_title"": ""senior electrical foreman"",
+      ""start_date"": ""22nd march 2009"",
+      ""end_date"": ""march 2016""
+    },
+    {
+      ""company_name"": ""blue star showroom"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""march 2005"",
+      ""end_date"": ""february 2009""
+    },
+    {
+      ""company_name"": ""whirlpool"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""april 2002"",
+      ""end_date"": ""march 2005""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""construction"",
+      ""wire checking"",
+      ""panel installation"",
+      ""wiring"",
+      ""control wiring"",
+      ""cable termination"",
+      ""maintenance"",
+      ""repair""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""independence"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""abrar ahmad"",
+  ""contact_info"": {
+    ""email"": ""abrarahmad11@yahoo.com"",
+    ""phone"": ""+91 9639619705""
+  },
+  ""education"": [
+    {
+      ""degree"": ""higher secondary school"",
+      ""branch"": """",
+      ""institution"": """",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""abdul aziz ul sugair inv com"",
+      ""job_title"": ""senior electrical foreman"",
+      ""start_date"": ""22nd march 2009"",
+      ""end_date"": ""22nd march 2016""
+    },
+    {
+      ""company_name"": ""blue star showroom"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""march 2005"",
+      ""end_date"": ""february 2009""
+    },
+    {
+      ""company_name"": ""whirlpool"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""april 2002"",
+      ""end_date"": ""march 2005""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""construction"",
+      ""wire checking"",
+      ""panel installation"",
+      ""wiring"",
+      ""control wiring"",
+      ""cable termination"",
+      ""maintenance"",
+      ""repair""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""independence"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 9
+  }
+}",ExtractedInformation,74.23,98.07,"{
+  ""name"": ""abrar ahmad"",
+  ""contact_info"": {
+    ""email"": ""abrarahmad11@yahoo.com"",
+    ""phone"": ""+91 9639619705""
+  },
+  ""education"": [
+    {
+      ""degree"": ""higher secondary school"",
+      ""branch"": """",
+      ""institution"": """",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""abdul aziz ul sugair inv.com"",
+      ""job_title"": ""senior electrical foreman"",
+      ""start_date"": ""22nd march 2009"",
+      ""end_date"": ""22nd march 2016""
+    },
+    {
+      ""company_name"": ""blue star showroom"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""march 2005"",
+      ""end_date"": ""february 2009""
+    },
+    {
+      ""company_name"": ""whirlpool"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""april 2002"",
+      ""end_date"": ""march 2005""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""wire loop checking function"",
+      ""construction"",
+      ""cable termination"",
+      ""wiring"",
+      ""ac maintenance and repair"",
+      ""cable gelding and termination"",
+      ""wire loop checking"",
+      ""panel installation""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""independence"",
+      ""time management"",
+      ""effective communication"",
+      ""adherence to deadlines""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 10
+  }
+}","{
+  ""name"": ""abrar ahmad"",
+  ""contact_info"": {
+    ""email"": ""abrarahmadll@yahoo.com"",
+    ""phone"": ""+91 9639619705""
+  },
+  ""education"": [
+    {
+      ""degree"": ""higher secondary school"",
+      ""branch"": """",
+      ""institution"": """",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""abdul aziz ul sugair inv.com"",
+      ""job_title"": ""senior electrical foreman"",
+      ""start_date"": ""22nd march 2009"",
+      ""end_date"": ""22nd march 2016""
+    },
+    {
+      ""company_name"": ""blue star showroom"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""march 2005"",
+      ""end_date"": ""february 2009""
+    },
+    {
+      ""company_name"": ""whirlpool"",
+      ""job_title"": ""ac technician"",
+      ""start_date"": ""april 2002"",
+      ""end_date"": ""march 2005""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""construction"",
+      ""wire loop checking"",
+      ""installation of power panels and lighting panels"",
+      ""cable welding and termination"",
+      ""point to point loop checking""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""independence"",
+      ""meeting deadlines""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 13,
+    ""months"": 10
+  }
+}",74.56,76.79
+1226.pdf,"{
+  ""name"": ""thaslim mohammed"",
+  ""contact_info"": {
+    ""email"": ""stmaac@gmail.com"",
+    ""phone"": ""+91-9994035591""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b tech mechanical engineering"",
+      ""branch"": """",
+      ""institution"": ""nataraj institute of technology, chennai"",
+      ""graduation_date"": ""rajasthan vidyapeeth university, rajasthan, india""
+    },
+    {
+      ""degree"": ""post graduate certificate course (pgdme)"",
+      ""branch"": """",
+      ""institution"": ""crescent engineering college, chennai, tamil nadu, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""higher secondary school certificate (hsc)"",
+      ""branch"": """",
+      ""institution"": ""government high school, state board, tamil nadu, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""arabian mep contracting wll"",
+      ""job_title"": ""mechanical engineer (plumbing, drainage & fire fighting)"",
+      ""start_date"": ""sep 2011"",
+      ""end_date"": ""march 2017""
+    },
+    {
+      ""company_name"": ""emirates technical associates (m&e)"",
+      ""job_title"": ""plumbing engineer"",
+      ""start_date"": ""feb 2008"",
+      ""end_date"": ""feb 2011""
+    },
+    {
+      ""company_name"": ""m/s eta-engineering pvt ltd"",
+      ""job_title"": ""mechanical supervisor (hvac & plumb)"",
+      ""start_date"": ""feb 2007"",
+      ""end_date"": ""jan 2008""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""shop drawing preparation"",
+      ""material submittal preparation"",
+      ""quantity take-off"",
+      ""site supervision"",
+      ""testing and commissioning""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""communication"",
+      ""problem-solving"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 5
+  }
+}","{
+  ""name"": ""thaslim mohammed"",
+  ""contact_info"": {
+    ""email"": ""stmaac@gmail.com"",
+    ""phone"": ""+91-9994035591""
+  },
+  ""education"": [
+    {
+      ""degree"": ""btech mechanical engineering"",
+      ""branch"": """",
+      ""institution"": ""nataraj institute of technology, chennai"",
+      ""graduation_date"": ""rajasthan vidyapeeth university, rajasthan, india""
+    },
+    {
+      ""degree"": ""post graduate certificate course (pgdme)"",
+      ""branch"": """",
+      ""institution"": ""crescent engineering college, chennai, tamil nadu, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""higher secondary school certificate (hsc)"",
+      ""branch"": """",
+      ""institution"": ""government high school, state board, tamil nadu, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""arabian mep contracting wll, doha, qatar"",
+      ""job_title"": ""mechanical engineer (plumbing, drainage & fire fighting)"",
+      ""start_date"": ""2011"",
+      ""end_date"": ""march 2017""
+    },
+    {
+      ""company_name"": ""emirates technical associates (m&e), dubai (uae)"",
+      ""job_title"": ""plumbing engineer"",
+      ""start_date"": ""feb 2008"",
+      ""end_date"": ""feb 2011""
+    },
+    {
+      ""company_name"": ""m/s eta engineering pvt ltd, india"",
+      ""job_title"": ""mechanical supervisor (hvac plumb)"",
+      ""start_date"": ""feb 2007"",
+      ""end_date"": ""jan 2008""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""shop drawing preparation"",
+      ""material submittal preparation"",
+      ""technical supervision"",
+      ""quantity take-off"",
+      ""site coordination"",
+      ""plumbing design"",
+      ""firefighting system implementation"",
+      ""site supervision"",
+      ""testing and commissioning""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""teamwork"",
+      ""problem-solving"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 6
+  }
+}","{
+  ""name"": ""thaslim mohammed"",
+  ""contact_info"": {
+    ""email"": ""stmaac@gmail.com"",
+    ""phone"": ""+91-9994035591""
+  },
+  ""education"": [
+    {
+      ""degree"": ""btech mechanical engineering"",
+      ""branch"": """",
+      ""institution"": ""nataraj institute of technology, chennai"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""post graduate certificate course (pgdme)"",
+      ""branch"": """",
+      ""institution"": ""crescent engineering college, chennai, tamil nadu, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""higher secondary school certificate (hsc)"",
+      ""branch"": """",
+      ""institution"": ""government high school, state board, tamil nadu, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""arabian mep contracting wll, doha, qatar"",
+      ""job_title"": ""mechanical engineer (plumbing, drainage & fire fighting)"",
+      ""start_date"": ""sep 2011"",
+      ""end_date"": ""march 2017""
+    },
+    {
+      ""company_name"": ""emirates technical associates (m&e), dubai (uae)"",
+      ""job_title"": ""plumbing engineer"",
+      ""start_date"": ""feb 2008"",
+      ""end_date"": ""feb 2011""
+    },
+    {
+      ""company_name"": ""m/s eta engineering pvt ltd, india"",
+      ""job_title"": ""mechanical supervisor (hvac plumb)"",
+      ""start_date"": ""feb 2007"",
+      ""end_date"": ""jan 2008""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""shop drawing preparation"",
+      ""material submittal preparation"",
+      ""technical supervision"",
+      ""quantity take-off"",
+      ""site coordination"",
+      ""plumbing design"",
+      ""firefighting system implementation"",
+      ""site supervision"",
+      ""testing and commissioning""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""teamwork"",
+      ""problem-solving"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 6
+  }
+}",ExtractedInformation,78.84,98.61,"{
+  ""name"": ""thaslim mohammed"",
+  ""contact_info"": {
+    ""email"": ""stmaac@gmail.com"",
+    ""phone"": ""+91-9994035591""
+  },
+  ""education"": [
+    {
+      ""degree"": ""btech mechanical engineering"",
+      ""branch"": """",
+      ""institution"": ""nataraj institute of technology, chennai, rajasthan vidyapeeth university, rajasthan, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""post graduate certificate course (pgdme)"",
+      ""branch"": """",
+      ""institution"": ""crescent engineering college, chennai, tamil nadu, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""higher secondary school certificate (hsc)"",
+      ""branch"": """",
+      ""institution"": ""government high school, state board, tamil nadu, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""arabian mep contracting wll"",
+      ""job_title"": ""mechanical engineer (plumbing, drainage & fire fighting)"",
+      ""start_date"": ""sep 2011"",
+      ""end_date"": ""march 2017""
+    },
+    {
+      ""company_name"": ""emirates technical associates (m&e)"",
+      ""job_title"": ""plumbing engineer"",
+      ""start_date"": ""feb 2008"",
+      ""end_date"": ""feb 2011""
+    },
+    {
+      ""company_name"": ""m/s eta f engineering pvt ltd"",
+      ""job_title"": ""mechanical supervisor (hvac & plumb.)"",
+      ""start_date"": ""feb 2007"",
+      ""end_date"": ""jan 2008""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""shop drawing preparation"",
+      ""material submittal preparation"",
+      ""technical supervision"",
+      ""quantity take-off"",
+      ""site supervision"",
+      ""material requirements planning"",
+      ""testing and commissioning""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""teamwork"",
+      ""problem-solving"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 5
+  }
+}","{
+  ""name"": ""thaslim mohammed"",
+  ""contact_info"": {
+    ""email"": ""stmaac@gmail.com"",
+    ""phone"": ""+91-9994035591""
+  },
+  ""education"": [
+    {
+      ""degree"": ""btech mechanical engineering"",
+      ""branch"": """",
+      ""institution"": ""nataraj institute of technology, chennai, rajasthan vidyapeeth university, rajasthan, india"",
+      ""graduation_date"": ""na""
+    },
+    {
+      ""degree"": ""post graduate certificate course (pgdme)"",
+      ""branch"": """",
+      ""institution"": ""crescent engineering college, chennai, tamil nadu, india"",
+      ""graduation_date"": ""na""
+    },
+    {
+      ""degree"": ""higher secondary school certificate (hsc)"",
+      ""branch"": """",
+      ""institution"": ""government high school, state board, tamil nadu, india"",
+      ""graduation_date"": ""na""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""arabian mep contracting wll"",
+      ""job_title"": ""mechanical engineer (plumbing, drainage & fire fighting)"",
+      ""start_date"": ""sep 2011"",
+      ""end_date"": ""march 2017""
+    },
+    {
+      ""company_name"": ""emirates technical associates (m&e)"",
+      ""job_title"": ""plumbing engineer"",
+      ""start_date"": ""feb 2008"",
+      ""end_date"": ""feb 2011""
+    },
+    {
+      ""company_name"": ""m/s eta f engineering pvt ltd"",
+      ""job_title"": ""mechanical supervisor (hvac & plumb)"",
+      ""start_date"": ""feb 2007"",
+      ""end_date"": ""jan 2008""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""shop drawing preparation"",
+      ""material submittal preparation"",
+      ""technical supervision"",
+      ""quantity take-off"",
+      ""site coordination"",
+      ""plumbing design"",
+      ""site execution"",
+      ""testing and commissioning""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""teamwork"",
+      ""problem-solving"",
+      ""time management"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 5
+  }
+}",78.73,74.55
+1249-6pages.pdf,{},{},"{
+  ""name"": ""thaslim mohammed"",
+  ""contact_info"": {
+    ""email"": ""stmaac@gmail.com"",
+    ""phone"": ""+91-9994035591""
+  },
+  ""education"": [
+    {
+      ""degree"": ""btech mechanical engineering"",
+      ""branch"": """",
+      ""institution"": ""nataraj institute of technology, chennai"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""post graduate certificate course (pgdme)"",
+      ""branch"": """",
+      ""institution"": ""crescent engineering college, chennai, tamil nadu, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""higher secondary school certificate (hsc)"",
+      ""branch"": """",
+      ""institution"": ""government high school, state board, tamil nadu, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""arabian mep contracting wll, doha, qatar"",
+      ""job_title"": ""mechanical engineer (plumbing, drainage & fire fighting)"",
+      ""start_date"": ""sep 2011"",
+      ""end_date"": ""march 2017""
+    },
+    {
+      ""company_name"": ""emirates technical associates (m&e), dubai (uae)"",
+      ""job_title"": ""plumbing engineer"",
+      ""start_date"": ""feb 2008"",
+      ""end_date"": ""feb 2011""
+    },
+    {
+      ""company_name"": ""m/s eta engineering pvt ltd, india"",
+      ""job_title"": ""mechanical supervisor (hvac plumb)"",
+      ""start_date"": ""feb 2007"",
+      ""end_date"": ""jan 2008""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""shop drawing preparation"",
+      ""material submittal preparation"",
+      ""technical supervision"",
+      ""quantity take-off"",
+      ""site coordination"",
+      ""plumbing design"",
+      ""firefighting system implementation"",
+      ""site supervision"",
+      ""testing and commissioning""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""teamwork"",
+      ""problem-solving"",
+      ""time management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 6
+  }
+}",ExtractedInformation,0.0,0.0,"{
+  ""name"": """",
+  ""contact_info"": {
+    ""email"": """",
+    ""phone"": """"
+  }
+}",{},10.57,0.0
+1288.pdf,"{
+  ""name"": ""md mazharuddin"",
+  ""contact_info"": {
+    ""email"": ""mazharuddineee206@gmail.com"",
+    ""phone"": ""+971 582596766""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology (b tech - eee)"",
+      ""branch"": ""electrical and electronics engineering"",
+      ""institution"": ""jawaharlal nehru technological university (jntu), hyderabad, india"",
+      ""graduation_date"": ""2015""
+    },
+    {
+      ""degree"": ""10+2 - mpc"",
+      ""branch"": ""mathematics, physics, chemistry"",
+      ""institution"": ""board of intermediate education, hyderabad, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""ssc"",
+      ""branch"": """",
+      ""institution"": ""board of secondary education, hyderabad, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""max volt electromechanical and contracting"",
+      ""job_title"": ""electrical site engineer"",
+      ""start_date"": ""may 2016"",
+      ""end_date"": ""dec 2017""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""designing & drafting electrical- systems for construction industry"",
+      ""electrical maintenance and safety"",
+      ""designing electrical system services for projects"",
+      ""autocad drafting & shop drawing for electrical- mep systems"",
+      ""site erection/inspection of electrical systems""
+    ],
+    ""soft_skills"": [
+      ""rapidly building relationships and setting up trust"",
+      ""confidence and determination"",
+      ""coping with different situations"",
+      ""handling pressure"",
+      ""positive attitude"",
+      ""dedication towards job""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 7
+  }
+}","{
+  ""name"": ""md mazharuddin"",
+  ""contact_info"": {
+    ""email"": ""mazharuddineee2lb@gmailcom"",
+    ""phone"": ""+971 582596766""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""jawaharlal nehru technological university (jntu)"",
+      ""graduation_date"": ""2015""
+    },
+    {
+      ""degree"": ""10+2 (intermediate mpc)"",
+      ""branch"": """",
+      ""institution"": ""hyderabad, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""ssc"",
+      ""branch"": """",
+      ""institution"": ""board of secondary education, hyderabad, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""max volt electromechanical and contracting"",
+      ""job_title"": ""electrical site engineer"",
+      ""start_date"": ""2016"",
+      ""end_date"": ""dec 2017""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""designing & drafting electrical"",
+      ""electrical maintenance and safety"",
+      ""design electrical system services"",
+      ""autocad drafting"",
+      ""shop drawings""
+    ],
+    ""soft_skills"": [
+      ""ability to rapidly build relationships"",
+      ""confident and determined"",
+      ""ability to cope up with different situations"",
+      ""ability to handle pressure"",
+      ""positive attitude"",
+      ""dedicated towards job""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 4
+  }
+}","{
+  ""name"": ""md mazharuddin"",
+  ""contact_info"": {
+    ""email"": ""mazharuddineee206@gmail.com"",
+    ""phone"": ""+971 582596766""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""jawaharlal nehru technological university (jntu)"",
+      ""graduation_date"": ""2015""
+    },
+    {
+      ""degree"": ""10+2 (intermediate mpc)"",
+      ""branch"": """",
+      ""institution"": ""hyderabad, india"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""ssc"",
+      ""branch"": """",
+      ""institution"": ""board of secondary education, hyderabad, india"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""max volt electromechanical and contracting"",
+      ""job_title"": ""electrical site engineer"",
+      ""start_date"": ""may 2016"",
+      ""end_date"": ""dec 2017""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""designing & drafting electrical"",
+      ""electrical maintenance and safety"",
+      ""design electrical system services"",
+      ""autocad drafting"",
+      ""shop drawings""
+    ],
+    ""soft_skills"": [
+      ""ability to rapidly build relationships"",
+      ""confident and determined"",
+      ""ability to cope up with different situations"",
+      ""ability to handle pressure"",
+      ""positive attitude"",
+      ""dedicated towards job""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 7
+  }
+}",ExtractedInformation,93.17,78.54,"{
+  ""name"": ""md mazharuddin"",
+  ""contact_info"": {
+    ""email"": ""mazharuddineee206@gmail.com"",
+    ""phone"": ""+971 582596766""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology (b.tech eee)"",
+      ""branch"": """",
+      ""institution"": ""jawaharlal nehru technological university (jntu)"",
+      ""graduation_date"": ""2015""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""max volt electromechanical and contracting"",
+      ""job_title"": ""electrical site engineer"",
+      ""start_date"": ""may 2016"",
+      ""end_date"": ""dec. 2017""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms office proficiency"",
+      ""shop drawing for electrical- mep systems"",
+      ""designing electrical system services for projects"",
+      ""designing & drafting electrical systems for construction industry"",
+      ""electrical maintenance and safety"",
+      ""site erection/inspection of electrical systems"",
+      ""autocad drafting & shop drawing for electrical-mep systems"",
+      ""autocad drafting""
+    ],
+    ""soft_skills"": [
+      ""building relationships and setting up trust rapidly"",
+      ""confidence and determination"",
+      ""confidence and determination"",
+      ""dedication towards job"",
+      ""dedication to job"",
+      ""positive attitude"",
+      ""building relationships and trust rapidly"",
+      ""handling pressure""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 7
+  }
+}","{
+  ""name"": ""md mazharuddin"",
+  ""contact_info"": {
+    ""email"": ""mazharuddineee2u6@gmailcom"",
+    ""phone"": ""+971 582596766""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology (b.tech eee)"",
+      ""branch"": ""electrical and electronics engineering"",
+      ""institution"": ""jawaharlal nehru technological university (jntu)"",
+      ""graduation_date"": ""2015""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""max volt electromechanical and contracting"",
+      ""job_title"": ""electrical site engineer"",
+      ""start_date"": ""may 2016"",
+      ""end_date"": ""dec. 2017""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""designing & drafting electrical systems for construction industry"",
+      ""electrical maintenance and safety"",
+      ""autocad drafting"",
+      ""shop drawing for electrical-mep systems"",
+      ""site erection/inspection of electrical systems"",
+      ""ms office""
+    ],
+    ""soft_skills"": [
+      ""rapidly building relationships and setting up trust"",
+      ""confidence and determination"",
+      ""coping with different situations"",
+      ""handling pressure"",
+      ""positive attitude"",
+      ""dedication to the job""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 7
+  }
+}",77.83,78.96
+1655.pdf,"{
+  ""name"": ""vijay s"",
+  ""contact_info"": {
+    ""email"": ""kvijay57@yahoo.com"",
+    ""phone"": ""9944197023""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electronics and communication"",
+      ""institution"": ""shri andal alagar college of engineering"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""institution"": ""m ct rm higher secondary school"",
+      ""graduation_date"": ""2007""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""institution"": ""m ct rm higher secondary school"",
+      ""graduation_date"": ""2005""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""sutherland global services"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""october 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""sl lumax ltd"",
+      ""job_title"": ""quality control trainee"",
+      ""start_date"": ""may 2013"",
+      ""end_date"": ""aug 2015""
+    },
+    {
+      ""company_name"": ""shri hari electricals"",
+      ""job_title"": ""project associate"",
+      ""start_date"": ""august 2011"",
+      ""end_date"": ""april 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""html"",
+      ""css"",
+      ""javascript"",
+      ""php"",
+      "".net"",
+      ""asp.net"",
+      ""xml""
+    ],
+    ""soft_skills"": [
+      ""quick learning capacity"",
+      ""self-initiator with high motivation"",
+      ""excellent team player focusing on targets""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""vijay s"",
+  ""contact_info"": {
+    ""email"": ""kvijay57@yahoo.com"",
+    ""phone"": ""9944197023""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electronics and communication"",
+      ""institution"": ""anna university"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": """",
+      ""institution"": ""m ct rm higher secondary school"",
+      ""graduation_date"": ""2007""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""branch"": """",
+      ""institution"": ""mct rm higher secondary school"",
+      ""graduation_date"": ""2005""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""sutherland global services"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""october 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""sl lumax ltd"",
+      ""job_title"": ""quality control trainee"",
+      ""start_date"": ""may 2013"",
+      ""end_date"": ""2015""
+    },
+    {
+      ""company_name"": ""shri hari electricals"",
+      ""job_title"": ""project associate"",
+      ""start_date"": ""august 2011"",
+      ""end_date"": ""april 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""html"",
+      ""css"",
+      ""javascript"",
+      ""php"",
+      ""nnet"",
+      ""asp.net"",
+      ""xml""
+    ],
+    ""soft_skills"": [
+      ""quick learning capacity"",
+      ""self-initiator with high motivation"",
+      ""excellent team player focusing on targets""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""vijay s"",
+  ""contact_info"": {
+    ""email"": ""kvijay57@yahoo.com"",
+    ""phone"": ""9944197023""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electronics and communication"",
+      ""institution"": ""anna university"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": """",
+      ""institution"": ""m ct rm higher secondary school"",
+      ""graduation_date"": ""2007""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""branch"": """",
+      ""institution"": ""mct rm higher secondary school"",
+      ""graduation_date"": ""2005""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""sutherland global services"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""october 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""sl lumax ltd"",
+      ""job_title"": ""quality control trainee"",
+      ""start_date"": ""may 2013"",
+      ""end_date"": ""aug 2015""
+    },
+    {
+      ""company_name"": ""shri hari electricals"",
+      ""job_title"": ""project associate"",
+      ""start_date"": ""august 2011"",
+      ""end_date"": ""april 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""html"",
+      ""css"",
+      ""javascript"",
+      ""php"",
+      ""nnet"",
+      ""asp.net"",
+      ""xml""
+    ],
+    ""soft_skills"": [
+      ""quick learning capacity"",
+      ""self-initiator with high motivation"",
+      ""excellent team player focusing on targets""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 9
+  }
+}",ExtractedInformation,96.06,98.61,"{
+  ""name"": ""vijay s"",
+  ""contact_info"": {
+    ""email"": ""kvijay57@yahoo.com"",
+    ""phone"": ""9944197023""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electronics and communication"",
+      ""institution"": ""anna university"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""sutherland global services"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""october 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""sl lumax ltd"",
+      ""job_title"": ""quality control trainee"",
+      ""start_date"": ""may 2013"",
+      ""end_date"": ""august 2015""
+    },
+    {
+      ""company_name"": ""shri hari electricals"",
+      ""job_title"": ""project associate"",
+      ""start_date"": ""august 2011"",
+      ""end_date"": ""april 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""php"",
+      ""java script"",
+      ""xml"",
+      ""css"",
+      ""javascript"",
+      ""html"",
+      ""asp net"",
+      ""net"",
+      ""asp.net""
+    ],
+    ""soft_skills"": [
+      ""quick learning capacity"",
+      ""quick learning capacity"",
+      ""excellent team player focusing on targets"",
+      ""self-initiator"",
+      ""team player"",
+      ""self-initiator with high motivation""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""s. vijay"",
+  ""contact_info"": {
+    ""email"": ""kvijay57@yahoo.com"",
+    ""phone"": ""9944197023""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of engineering"",
+      ""branch"": ""electronics and communication"",
+      ""institution"": ""shri andal alagar college of engineering"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""sutherland global services"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""october 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""sl lumax ltd"",
+      ""job_title"": ""quality control trainee"",
+      ""start_date"": ""may 2013"",
+      ""end_date"": ""august 2015""
+    },
+    {
+      ""company_name"": ""shri hari electricals"",
+      ""job_title"": ""project associate"",
+      ""start_date"": ""august 2011"",
+      ""end_date"": ""april 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""html"",
+      ""css"",
+      ""javascript"",
+      ""php"",
+      ""asp.net"",
+      ""xml""
+    ],
+    ""soft_skills"": [
+      ""quick learning capacity"",
+      ""self-initiator"",
+      ""team player""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 9
+  }
+}",82.41,67.37
+1129.pdf,"{
+  ""name"": ""jitendra kumar gupta"",
+  ""contact_info"": {
+    ""email"": ""jitendra72k@gmail.com"",
+    ""phone"": ""08287263933""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b tech"",
+      ""branch"": ""eee"",
+      ""institution"": ""graphic era university"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""jll"",
+      ""job_title"": ""engineer (electrical)"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""efs facility ltd"",
+      ""job_title"": ""get & shift engineer (electrical)"",
+      ""start_date"": ""june 2012"",
+      ""end_date"": ""june 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms office (word, excel, powerpoint)"",
+      ""operating system: windows 2000/xp/vista/seven"",
+      ""operation and maintenance knowledge of dg & hvac plant"",
+      ""operation and maintenance of different circuit breaker & transformer (2500kva)"",
+      ""operation and maintenance knowledge of ups"",
+      ""operation and maintenance of fire detection system"",
+      ""operation and maintenance knowledge of stp and wtp"",
+      ""knowledge of bms"",
+      ""knowledge of fire extinguisher"",
+      ""operation and maintenance knowledge of lift"",
+      ""knowledge of hydro power generation (120mw), feeder (220kv) and distribution (33kv)"",
+      ""knowledge of electrical equipment use in power distribution (33kv)"",
+      ""standards, sop, all types of permits and loto procedure""
+    ],
+    ""soft_skills"": [
+      ""hardworking and punctual"",
+      ""ability to work in a team"",
+      ""good learning skills"",
+      ""good computer literacy skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""jitendra kumar gupta"",
+  ""contact_info"": {
+    ""email"": ""jitendra72k@gmail.com"",
+    ""phone"": ""08287263933""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b tech"",
+      ""branch"": ""eee"",
+      ""institution"": ""graphic era university"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""jll"",
+      ""job_title"": ""engineer (electrical)"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""efs facility ltd"",
+      ""job_title"": ""get & shift engineer (electrical)"",
+      ""start_date"": ""june 2012"",
+      ""end_date"": ""june 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electricity generation"",
+      ""operation and maintenance of electrical equipment"",
+      ""hvac plant operation and maintenance"",
+      ""fire detection system operation and maintenance"",
+      ""stp and wtp operation and maintenance"",
+      ""bms knowledge"",
+      ""fire extinguisher knowledge"",
+      ""lift operation and maintenance""
+    ],
+    ""soft_skills"": [
+      ""hardworking"",
+      ""punctual"",
+      ""teamwork"",
+      ""good learning skills"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""jitendra kumar gupta"",
+  ""contact_info"": {
+    ""email"": ""jitendra72k@gmail.com"",
+    ""phone"": ""08287263933""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b tech"",
+      ""branch"": ""eee"",
+      ""institution"": ""graphic era university"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""jll"",
+      ""job_title"": ""engineer (electrical)"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""efs facility ltd"",
+      ""job_title"": ""get & shift engineer (electrical)"",
+      ""start_date"": ""june 2012"",
+      ""end_date"": ""june 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electricity generation"",
+      ""operation and maintenance of electrical equipment"",
+      ""hvac plant operation and maintenance"",
+      ""fire detection system operation and maintenance"",
+      ""stp and wtp operation and maintenance"",
+      ""bms knowledge"",
+      ""fire extinguisher knowledge"",
+      ""lift operation and maintenance""
+    ],
+    ""soft_skills"": [
+      ""hardworking"",
+      ""punctual"",
+      ""teamwork"",
+      ""good learning skills"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 2
+  }
+}",ExtractedInformation,89.6,100.0,"{
+  ""name"": ""jitendra kumar gupta"",
+  ""contact_info"": {
+    ""email"": ""jitendra72k@gmail.com"",
+    ""phone"": ""08287263933""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.tech"",
+      ""branch"": ""eee"",
+      ""institution"": ""graphic era university"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""jll"",
+      ""job_title"": ""engineer (electrical)"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""efs facility ltd"",
+      ""job_title"": ""get shift engineer (electrical)"",
+      ""start_date"": ""june 2012"",
+      ""end_date"": ""june 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""operation and maintenance knowledge of stp and wtp"",
+      ""operation and maintenance knowledge of lift"",
+      ""knowledge of hydro power generation (120mw), feeder (220kv) and distribution (33kv)"",
+      ""operation and maintenance knowledge of ups"",
+      ""ms office (word, excel, powerpoint)"",
+      ""operating system: windows 2000/xp/vista/seven"",
+      ""knowledge of fire extinguisher"",
+      ""operation and maintenance of fire detection system"",
+      ""operation and maintenance of different circuit breaker & transformer (2500kva)"",
+      ""knowledge of electrical equipment use in power distribution (33kv)"",
+      ""knowledge of bms"",
+      ""operation and maintenance knowledge of dg & hvac plant""
+    ],
+    ""soft_skills"": [
+      ""hardworking"",
+      ""punctual"",
+      ""good learning skills"",
+      ""hardworking and punctual"",
+      ""ability to work in a team"",
+      ""good computer literacy skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""jitendra kumar gupta"",
+  ""contact_info"": {
+    ""email"": ""jitendraz2k@gmail.com"",
+    ""phone"": ""08287263933""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.tech"",
+      ""branch"": ""eee"",
+      ""institution"": ""graphic era university"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""jll"",
+      ""job_title"": ""engineer (electrical)"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""efs facility ltd"",
+      ""job_title"": ""get shift engineer (electrical)"",
+      ""start_date"": ""june 2012"",
+      ""end_date"": ""june 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electricity generation"",
+      ""maintenance of electrical equipment"",
+      ""ms office"",
+      ""operating system""
+    ],
+    ""soft_skills"": [
+      ""leadership"",
+      ""teamwork"",
+      ""problem-solving""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 2
+  }
+}",87.74,87.14
+1131.pdf,"{
+  ""name"": ""irshad hussain"",
+  ""contact_info"": {
+    ""email"": ""irshadmechanical@gmail.com"",
+    ""phone"": ""9910808234, 9818861516""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.e. mechanical"",
+      ""branch"": """",
+      ""institution"": ""al-falah school of education and technology"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""feb 2017"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""m/s wapcos limited"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""nov 2015"",
+      ""end_date"": ""feb 2017""
+    },
+    {
+      ""company_name"": ""om metals infra project pvt ltd"",
+      ""job_title"": ""deputy manager"",
+      ""start_date"": ""27-07-2013"",
+      ""end_date"": ""15-11-2015""
+    },
+    {
+      ""company_name"": ""nhpc limited"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""07-09-2011"",
+      ""end_date"": ""06-09-2012""
+    },
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""06-09-2012"",
+      ""end_date"": ""27-07-2013""
+    },
+    {
+      ""company_name"": ""m/s frick india ltd"",
+      ""job_title"": ""engineer"",
+      ""start_date"": ""21-03-2009"",
+      ""end_date"": ""03-09-2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""pro-e wildfire 3""
+    ],
+    ""soft_skills"": [
+      ""typing (55 wpm)"",
+      ""ms-office"",
+      ""internet""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 14,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""irshad hussain"",
+  ""contact_info"": {
+    ""email"": ""irshadmechanical@gmail.com"",
+    ""phone"": ""9910808234, 9818861516""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be"",
+      ""branch"": ""mechanical"",
+      ""institution"": ""al-falah school of education & technology"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""feb 2017"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""wapcos limited"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""nov 2015"",
+      ""end_date"": ""feb 2017""
+    },
+    {
+      ""company_name"": ""om metals infra project pvt ltd"",
+      ""job_title"": ""deputy manager"",
+      ""start_date"": ""27 07 2013"",
+      ""end_date"": ""15 11 2015""
+    },
+    {
+      ""company_name"": ""nhpc limited"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""07 09 2011"",
+      ""end_date"": ""06 09 2012""
+    },
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""06 09 2012"",
+      ""end_date"": ""27 07 2013""
+    },
+    {
+      ""company_name"": ""frick india ltd"",
+      ""job_title"": ""engineer"",
+      ""start_date"": ""21 03 2009"",
+      ""end_date"": ""03 09 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""auto cad"",
+      ""pro-e wildfire 3""
+    ],
+    ""soft_skills"": [
+      ""typing (55 wpm)"",
+      ""ms-office"",
+      ""internet""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 14,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""irshad hussain"",
+  ""contact_info"": {
+    ""email"": ""irshadmechanical@gmail.com"",
+    ""phone"": ""9910808234, 9818861516""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be"",
+      ""branch"": ""mechanical"",
+      ""institution"": ""al-falah school of education & technology"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""feb 2017"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""wapcos limited"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""nov 2015"",
+      ""end_date"": ""feb 2017""
+    },
+    {
+      ""company_name"": ""om metals infra project pvt ltd"",
+      ""job_title"": ""deputy manager"",
+      ""start_date"": ""27 07 2013"",
+      ""end_date"": ""15 11 2015""
+    },
+    {
+      ""company_name"": ""nhpc limited"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""07 09 2011"",
+      ""end_date"": ""06 09 2012""
+    },
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""06 09 2012"",
+      ""end_date"": ""27 07 2013""
+    },
+    {
+      ""company_name"": ""frick india ltd"",
+      ""job_title"": ""engineer"",
+      ""start_date"": ""21 03 2009"",
+      ""end_date"": ""03 09 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""auto cad"",
+      ""pro-e wildfire 3""
+    ],
+    ""soft_skills"": [
+      ""typing (55 wpm)"",
+      ""ms-office"",
+      ""internet""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 14,
+    ""months"": 11
+  }
+}",ExtractedInformation,86.56,100.0,"{
+  ""name"": ""irshad hussain"",
+  ""contact_info"": {
+    ""email"": ""irshadmechanical@gmail.com"",
+    ""phone"": ""9910808234, 9818861516""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be"",
+      ""branch"": ""mechanical"",
+      ""institution"": ""al-falah school of education and technology"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""feb 2017"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""wapcos limited"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""nov 2015"",
+      ""end_date"": ""feb 2017""
+    },
+    {
+      ""company_name"": ""om metals infra project pvt ltd"",
+      ""job_title"": ""deputy manager"",
+      ""start_date"": ""27.07.2013"",
+      ""end_date"": ""15.11.2015""
+    },
+    {
+      ""company_name"": ""nhpc limited"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""07.09.2011"",
+      ""end_date"": ""06.09.2012""
+    },
+    {
+      ""company_name"": ""frick india ltd."",
+      ""job_title"": ""engineer"",
+      ""start_date"": ""21.03.2009"",
+      ""end_date"": ""03.09.2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""pro-e wildfire 3"",
+      ""auto cad""
+    ],
+    ""soft_skills"": [
+      ""internet"",
+      ""typing speed 55 wpm"",
+      ""typing (55 wpm)"",
+      ""ms-office""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 6,
+    ""months"": 4
+  }
+}","{
+  ""name"": ""irshad hussain"",
+  ""contact_info"": {
+    ""email"": ""irshadmechanical@gmail.com"",
+    ""phone"": ""9910808234, 9818861516""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be"",
+      ""branch"": ""mechanical"",
+      ""institution"": ""al-falah school of education and technology"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""heat care system"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""feb 2017"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""wapcos limited"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""nov 2015"",
+      ""end_date"": ""feb 2017""
+    },
+    {
+      ""company_name"": ""om metals infra project pvt ltd"",
+      ""job_title"": ""deputy manager"",
+      ""start_date"": ""27.07.2013"",
+      ""end_date"": ""15.11.2015""
+    },
+    {
+      ""company_name"": ""nhpc limited"",
+      ""job_title"": ""design engineer"",
+      ""start_date"": ""07.09.2011"",
+      ""end_date"": ""06.09.2012""
+    },
+    {
+      ""company_name"": ""frick india ltd."",
+      ""job_title"": ""engineer"",
+      ""start_date"": ""21.03.2009"",
+      ""end_date"": ""03.09.2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""auto cad"",
+      ""pro-e wildfire 3""
+    ],
+    ""soft_skills"": [
+      ""typing (55 wpm)"",
+      ""knowledge of ms-office & internet""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 6,
+    ""months"": 4
+  }
+}",70.27,75.36
+1228.pdf,"{
+  ""name"": ""sunita choudhary"",
+  ""contact_info"": {
+    ""email"": ""sunita21@gmail.com"",
+    ""phone"": ""+91-971-191-9988""
+  },
+  ""education"": [
+    {
+      ""degree"": ""pgdba"",
+      ""branch"": ""customer relationship management"",
+      ""institution"": ""symbiosis"",
+      ""graduation_date"": ""july 2011""
+    },
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""specialization it"",
+      ""institution"": ""annamalai university"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""technical diploma"",
+      ""branch"": ""computer science & computer technology implementation"",
+      ""institution"": ""government institute"",
+      ""graduation_date"": ""not provided""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""deputy/project manager- project management office"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""quality analyst, team lead"",
+      ""start_date"": ""nov 2006"",
+      ""end_date"": ""july 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""prince2"",
+      ""pmp"",
+      ""itil v3.0"",
+      ""six sigma yellow belt"",
+      ""six sigma green belt""
+    ],
+    ""soft_skills"": [
+      ""relationship management"",
+      ""communication"",
+      ""team management"",
+      ""quality control""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 16,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""sunita choudhary"",
+  ""contact_info"": {
+    ""email"": ""chaudhary_sunita2l@gmail.com"",
+    ""phone"": ""+91-971-191-9988""
+  },
+  ""education"": [
+    {
+      ""degree"": ""pgdba"",
+      ""branch"": ""customer relationship management"",
+      ""institution"": ""symbiosis"",
+      ""graduation_date"": ""july 2011""
+    },
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""specialization it"",
+      ""institution"": ""annamalai university"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""technical diploma"",
+      ""branch"": ""computer science & computer technology implementation"",
+      ""institution"": ""government institute"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""deputy/project manager- project management office"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""quality analyst, team lead"",
+      ""start_date"": ""nov 2006"",
+      ""end_date"": ""july 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""prince2"",
+      ""pmp"",
+      ""itil v3.0"",
+      ""ms powerpoint"",
+      ""ms excel"",
+      ""ms word"",
+      ""ms projects 2013""
+    ],
+    ""soft_skills"": [
+      ""relationship management"",
+      ""communication"",
+      ""team management"",
+      ""resource management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 16,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""sunita choudhary"",
+  ""contact_info"": {
+    ""email"": ""chaudhary_sunita21@gmail.com"",
+    ""phone"": ""+91-971-191-9988""
+  },
+  ""education"": [
+    {
+      ""degree"": ""pgdba"",
+      ""branch"": ""customer relationship management"",
+      ""institution"": ""symbiosis"",
+      ""graduation_date"": ""july 2011""
+    },
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""specialization it"",
+      ""institution"": ""annamalai university"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""technical diploma"",
+      ""branch"": ""computer science & computer technology implementation"",
+      ""institution"": ""government institute"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""deputy/project manager- project management office"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""quality analyst, team lead"",
+      ""start_date"": ""nov 2006"",
+      ""end_date"": ""july 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""prince2"",
+      ""pmp"",
+      ""itil v3.0"",
+      ""ms powerpoint"",
+      ""ms excel"",
+      ""ms word"",
+      ""ms projects 2013""
+    ],
+    ""soft_skills"": [
+      ""relationship management"",
+      ""communication"",
+      ""team management"",
+      ""resource management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 16,
+    ""months"": 11
+  }
+}",,91.48,99.76,"{
+  ""name"": ""sunita choudhary"",
+  ""contact_info"": {
+    ""email"": ""sunita21@gmail.com"",
+    ""phone"": ""+91-971-191-9988""
+  },
+  ""education"": [
+    {
+      ""degree"": ""pgdba"",
+      ""branch"": ""customer relationship management"",
+      ""institution"": ""symbiosis"",
+      ""graduation_date"": ""july 2011""
+    },
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""specialization it"",
+      ""institution"": ""annamalai university"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""technical diploma"",
+      ""branch"": ""computer science & computer technology implementation"",
+      ""institution"": ""govt institute"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""pmo deputy manager"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""quality analyst, team lead"",
+      ""start_date"": ""nov 2006"",
+      ""end_date"": ""july 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""itil v 3.0"",
+      ""six sigma yellow belt"",
+      ""prince2"",
+      ""six sigma green belt"",
+      ""itil v3.0"",
+      ""pmp""
+    ],
+    ""soft_skills"": [
+      ""risk management"",
+      ""team management"",
+      ""problem-solving"",
+      ""communication"",
+      ""interpersonal""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 16,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""sunita choudhary"",
+  ""contact_info"": {
+    ""email"": ""sunita2l@gmail.com"",
+    ""phone"": ""+91-971-191-9988""
+  },
+  ""education"": [
+    {
+      ""degree"": ""pgdba"",
+      ""branch"": ""customer relationship management"",
+      ""institution"": ""symbiosis"",
+      ""graduation_date"": ""july 2011""
+    },
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""it"",
+      ""institution"": ""annamalai university"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""technical diploma"",
+      ""branch"": ""computer science & computer technology implementation"",
+      ""institution"": ""govt institute"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""pmo deputy manager"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""quality analyst, team lead"",
+      ""start_date"": ""nov 2006"",
+      ""end_date"": ""july 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms power point"",
+      ""ms excel"",
+      ""ms word"",
+      ""ms projects 2013""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""interpersonal skills"",
+      ""relationship management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 16,
+    ""months"": 11
+  }
+}",87.42,89.08
+1190.pdf,{},{},"{
+  ""name"": ""sunita choudhary"",
+  ""contact_info"": {
+    ""email"": ""chaudhary_sunita21@gmail.com"",
+    ""phone"": ""+91-971-191-9988""
+  },
+  ""education"": [
+    {
+      ""degree"": ""pgdba"",
+      ""branch"": ""customer relationship management"",
+      ""institution"": ""symbiosis"",
+      ""graduation_date"": ""july 2011""
+    },
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""specialization it"",
+      ""institution"": ""annamalai university"",
+      ""graduation_date"": ""2009""
+    },
+    {
+      ""degree"": ""technical diploma"",
+      ""branch"": ""computer science & computer technology implementation"",
+      ""institution"": ""government institute"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""deputy/project manager- project management office"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hcl technologies ltd"",
+      ""job_title"": ""quality analyst, team lead"",
+      ""start_date"": ""nov 2006"",
+      ""end_date"": ""july 2011""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""prince2"",
+      ""pmp"",
+      ""itil v3.0"",
+      ""ms powerpoint"",
+      ""ms excel"",
+      ""ms word"",
+      ""ms projects 2013""
+    ],
+    ""soft_skills"": [
+      ""relationship management"",
+      ""communication"",
+      ""team management"",
+      ""resource management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 16,
+    ""months"": 11
+  }
+}",,0.0,0.0,"{
+  ""name"": """",
+  ""contact_info"": {
+    ""email"": """",
+    ""phone"": """"
+  }
+}",{},9.03,0.0
+1092.pdf,"{
+  ""name"": ""s sathiyasundharam"",
+  ""contact_info"": {
+    ""email"": ""shakthiraj46@gmail.com"",
+    ""phone"": ""+91 9978029626""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in electrical & electronics engineering"",
+      ""branch"": """",
+      ""institution"": ""ayyappa polytechnic college"",
+      ""graduation_date"": ""2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""chennai radha engineering works (p) ltd"",
+      ""job_title"": ""assistant engineer"",
+      ""start_date"": ""2014"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""rane trw steering system ltd"",
+      ""job_title"": ""r & d product development"",
+      ""start_date"": ""2013"",
+      ""end_date"": ""2014""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""plc programming"",
+      ""preventive maintenance"",
+      ""electrical troubleshooting"",
+      ""nvh testing"",
+      ""sap"",
+      ""autocad"",
+      ""e-cadd""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""quick learning"",
+      ""customer handling"",
+      ""vendor management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""s sathiyasundharam"",
+  ""contact_info"": {
+    ""email"": ""shakthiraj46@gmail.com"",
+    ""phone"": ""+91 9978029626""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in electrical & electronics engineering"",
+      ""branch"": """",
+      ""institution"": ""ayyappa polytechnic college"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": """",
+      ""institution"": ""pachaiyppa's higher secondary school, chidambaram"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""branch"": """",
+      ""institution"": ""ramasamychettiar higher secondary school, chidambaram"",
+      ""graduation_date"": ""2009""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""chennai radha engineering works (p) ltd"",
+      ""job_title"": ""assistant engineer"",
+      ""start_date"": ""2014"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""rane trw steering system ltd"",
+      ""job_title"": """",
+      ""start_date"": ""2013"",
+      ""end_date"": ""2014""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""predictive and preventive maintenance scheduling"",
+      ""troubleshooting tools application"",
+      ""maintenance record keeping"",
+      ""plc programming"",
+      ""data entry in sap"",
+      ""electrical instrumentation"",
+      ""nvh testing"",
+      ""noise measurement"",
+      ""sensor setup""
+    ],
+    ""soft_skills"": [
+      ""communication skills"",
+      ""customer handling"",
+      ""vendor management"",
+      ""quick learner""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""s sathiyasundharam"",
+  ""contact_info"": {
+    ""email"": ""shakthiraj46@gmail.com"",
+    ""phone"": ""+91 9978029626""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in electrical & electronics engineering"",
+      ""branch"": """",
+      ""institution"": ""ayyappa polytechnic college"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": """",
+      ""institution"": ""pachaiyppa's higher secondary school, chidambaram"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""branch"": """",
+      ""institution"": ""ramasamychettiar higher secondary school, chidambaram"",
+      ""graduation_date"": ""2009""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""chennai radha engineering works (p) ltd"",
+      ""job_title"": ""assistant engineer"",
+      ""start_date"": ""2014"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""rane trw steering system ltd"",
+      ""job_title"": """",
+      ""start_date"": ""2013"",
+      ""end_date"": ""2014""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""predictive and preventive maintenance scheduling"",
+      ""troubleshooting tools application"",
+      ""maintenance record keeping"",
+      ""plc programming"",
+      ""data entry in sap"",
+      ""electrical instrumentation"",
+      ""nvh testing"",
+      ""noise measurement"",
+      ""sensor setup""
+    ],
+    ""soft_skills"": [
+      ""communication skills"",
+      ""customer handling"",
+      ""vendor management"",
+      ""quick learner""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 0
+  }
+}",,81.88,100.0,"{
+  ""name"": ""s sathiyasundharam"",
+  ""contact_info"": {
+    ""email"": ""shakthiraj46@gmail.com"",
+    ""phone"": ""+91 9978029626""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in electrical electronics engineering"",
+      ""branch"": ""electronics engineering"",
+      ""institution"": ""ayyappa polytechnic college"",
+      ""graduation_date"": ""2013""
+    },
+    {
+      ""degree"": ""tamilnadu hsc"",
+      ""branch"": ""state board of examination"",
+      ""institution"": ""pachaiyppa's higher secondary school, chidambaram"",
+      ""graduation_date"": ""2011""
+    },
+    {
+      ""degree"": ""tamilnadu s.s.l.c"",
+      ""branch"": ""state board of examination"",
+      ""institution"": ""ramasamychettiar higher secondary school, chidambaram"",
+      ""graduation_date"": ""2009""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""chennai radha engineering works (p) ltd."",
+      ""job_title"": ""assistant engineer"",
+      ""start_date"": ""2014"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""rane trw steering system ltd."",
+      ""job_title"": ""r&d product development"",
+      ""start_date"": ""2013"",
+      ""end_date"": ""2014""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""thermocouples setup"",
+      ""speed sensors setup"",
+      ""electrical/instrumentation drawings interpretation"",
+      ""noise measurement"",
+      ""microphone setup"",
+      ""noise instruments handling"",
+      ""predictive & preventive maintenance"",
+      ""pressure transducers setup"",
+      ""plc programming (abb ac 800m)"",
+      ""sap"",
+      ""noise measurement"",
+      ""plc programming"",
+      ""nvh testing"",
+      ""preventive maintenance"",
+      ""accelerometers setup"",
+      ""electrical instrumentation"",
+      ""electrical equipment troubleshooting"",
+      ""troubleshooting"",
+      ""vibration measurement""
+    ],
+    ""soft_skills"": [
+      ""global vendor management"",
+      ""customer and vendor management"",
+      ""quick learner"",
+      ""effective communication"",
+      ""communication"",
+      ""quick learner"",
+      ""customer relations""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""s. sathiyasundharam"",
+  ""contact_info"": {
+    ""email"": ""shakthiraj46@gmail.com"",
+    ""phone"": ""+91 9978029626""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in electrical electronics engineering"",
+      ""branch"": ""electronics"",
+      ""institution"": ""ayyappa polytechnic college"",
+      ""graduation_date"": ""2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""chennai radha engineering works (p) ltd."",
+      ""job_title"": ""assistant engineer"",
+      ""start_date"": ""2014"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""rane trw steering system ltd."",
+      ""job_title"": ""r&d product development"",
+      ""start_date"": ""2013"",
+      ""end_date"": ""2014""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""predictive preventive maintenance"",
+      ""troubleshooting"",
+      ""plc programming"",
+      ""electrical instrumentation"",
+      ""nvh testing"",
+      ""noise measurement""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""customer handling"",
+      ""vendor management"",
+      ""quick learner""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 11,
+    ""months"": 0
+  }
+}",78.92,65.0
+1485.pdf,"{
+  ""name"": ""john doe"",
+  ""contact_info"": {
+    ""email"": ""johndoe@example.com"",
+    ""phone"": ""123-456-7890""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""computer science"",
+      ""institution"": ""university of abc"",
+      ""graduation_date"": ""may 2015""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""tech solutions inc."",
+      ""job_title"": ""software engineer"",
+      ""start_date"": ""june 2015"",
+      ""end_date"": ""present""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""java"",
+      ""python"",
+      ""sql"",
+      ""javascript""
+    ],
+    ""soft_skills"": [
+      ""communication"",
+      ""teamwork"",
+      ""problem-solving""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""md reyazuddin"",
+  ""contact_info"": {
+    ""email"": ""mdreyazozs@gmail.com"",
+    ""phone"": ""7631451878""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be"",
+      ""branch"": ""civil engineering"",
+      ""institution"": ""bist"",
+      ""graduation_date"": ""2018""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""software"",
+      ""basic""
+    ],
+    ""soft_skills"": [
+      ""project management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""md reyazuddin"",
+  ""contact_info"": {
+    ""email"": ""mdreyaz025@gmail.com"",
+    ""phone"": ""7631451878""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be"",
+      ""branch"": ""civil engineering"",
+      ""institution"": ""bist"",
+      ""graduation_date"": ""2018""
+    }
+  ],
+  ""work_experience"": [],
+  ""skills"": {
+    ""technical_skills"": [
+      ""software"",
+      ""basic""
+    ],
+    ""soft_skills"": [
+      ""project management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",,18.92,82.44,"{
+  ""name"": ""md reyazuddin"",
+  ""contact_info"": {
+    ""email"": ""mdreyazuzs@gmail.com"",
+    ""phone"": ""7631451878""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be (civil engineering)"",
+      ""branch"": ""civil"",
+      ""institution"": ""bist rgpv"",
+      ""graduation_date"": ""2018""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""sewage treatment"",
+      ""job_title"": ""project manager"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""software basics"",
+      ""autocad""
+    ],
+    ""soft_skills"": [
+      ""project management"",
+      ""teamwork"",
+      ""problem-solving""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""md reyazuddin"",
+  ""contact_info"": {
+    ""email"": ""mdreyazuzs@gmail.com"",
+    ""phone"": ""7631451878""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be (civil engineering)"",
+      ""branch"": ""civil"",
+      ""institution"": ""bist"",
+      ""graduation_date"": ""2018""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""project name: sewage treatment"",
+      ""job_title"": ""analysis of project"",
+      ""start_date"": ""n/a"",
+      ""end_date"": ""n/a""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""software basics"",
+      ""autocad""
+    ],
+    ""soft_skills"": [
+      ""project management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",69.65,74.67
+1632.pdf,"{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in engineering (civil)"",
+      ""branch"": ""civil"",
+      ""institution"": ""emperial institute of management science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms office word/excel"",
+      ""net surfing and downloading"",
+      ""autocad: architectural designing, engineering drawings, highway drawings, draughtsman work"",
+      ""printing all size a4/a3, soft copies"",
+      ""email, scanning, printing, fax"",
+      ""xp operating, windows/vista/2007""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""strong problem solver"",
+      ""adaptive to any situation"",
+      ""ready to work in shifts"",
+      ""confident and persistency of work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in civil engineering"",
+      ""branch"": ""civil"",
+      ""institution"": ""emperial institute of management science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad (architectural designing, engineering)"",
+      ""ms office word/excel"",
+      ""net surfing and downloading""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""problem solver"",
+      ""adaptive to any situation"",
+      ""confident and persistent worker""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in civil engineering"",
+      ""branch"": ""civil"",
+      ""institution"": ""emperial institute of management science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad (architectural designing, engineering)"",
+      ""ms office word/excel"",
+      ""net surfing and downloading""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""problem solver"",
+      ""adaptive to any situation"",
+      ""confident and persistent worker""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}",,91.54,100.0,"{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""civil engineering"",
+      ""institution"": ""emperial institute of management engineer science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008 jan"",
+      ""end_date"": ""2010 feb""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""april 2013"",
+      ""end_date"": ""dec. 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""architectural designing"",
+      ""engineering drawings"",
+      ""autocad"",
+      ""highway drawings"",
+      ""draughtsman work"",
+      ""autocad: architectural designing, engineering drawings, highway drawings, draughtsman work""
+    ],
+    ""soft_skills"": [
+      ""confident and persistency of work"",
+      ""solid communicator"",
+      ""confident and persistent"",
+      ""adaptive to any situation"",
+      ""strong problem solver""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""civil engineering"",
+      ""institution"": ""emperial institute of management engineering science & research, delhi"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad architectural designing"",
+      ""engineering drawings"",
+      ""highway drawings"",
+      ""draughtsman work""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""strong problem solver"",
+      ""adaptive to any situation"",
+      ""confident and persistent""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}",77.32,90.46
+1543.pdf,"{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""n/a"",
+      ""institution"": ""s v n g v, gorakhpur"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""n/a"",
+      ""end_date"": ""n/a""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""n/a"",
+      ""end_date"": ""n/a""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel"",
+      ""light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger"",
+      ""hi pot"",
+      ""various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation"",
+      ""handle all work during the job""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""not specified"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""saudi aramco (saudi arabia)"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""auto cadd"",
+      ""network systems"",
+      ""control systems"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""positive attitude"",
+      ""strong will power""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""not specified"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""saudi aramco (saudi arabia)"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""auto cadd"",
+      ""network systems"",
+      ""control systems"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""positive attitude"",
+      ""strong will power""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",,77.16,100.0,"{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""na"",
+      ""institution"": ""s v n g v, gorakhpur"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""na"",
+      ""end_date"": ""na""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""na"",
+      ""end_date"": ""na""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel"",
+      ""light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger"",
+      ""hi pot"",
+      ""various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd."",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    },
+    {
+      ""company_name"": ""national construction co. (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger, hi pot, various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",60.6,81.77
+144.pdf,"{
+  ""name"": ""amit kumar"",
+  ""contact_info"": {
+    ""email"": ""amit7607183292@gmail.com"",
+    ""phone"": ""07080416380, 7505231040""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": """",
+      ""institution"": ""c s j m university, kanpur"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""three years engg (instrument & electrical)"",
+      ""branch"": """",
+      ""institution"": ""haame lucknow"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": """",
+      ""institution"": ""u p board"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": """",
+      ""institution"": ""c b s e board"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""b-cube it solutions pvt ltd"",
+      ""job_title"": ""sales co-ordinator"",
+      ""start_date"": """",
+      ""end_date"": ""1 year""
+    },
+    {
+      ""company_name"": ""five rivers consumer product, new delhi"",
+      ""job_title"": ""sales officer"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""april 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""computer diploma""
+    ],
+    ""soft_skills"": [
+      ""analytical skills"",
+      ""creative skills"",
+      ""positive thinking"",
+      ""good conduct"",
+      ""hard working""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 2,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""amit kumar"",
+  ""contact_info"": {
+    ""email"": ""amit7607183292@gmail.com"",
+    ""phone"": ""07080416380, 7505231040""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""instrument & electrical"",
+      ""institution"": ""c s j m university, kanpur"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""three years diploma"",
+      ""branch"": ""not specified"",
+      ""institution"": ""haame lucknow"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""b-cube it solutions pvt ltd"",
+      ""job_title"": ""sales co-ordinator"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    },
+    {
+      ""company_name"": ""five rivers consumer product, new delhi"",
+      ""job_title"": ""sales officer"",
+      ""start_date"": ""2012"",
+      ""end_date"": ""april 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""computer diploma""
+    ],
+    ""soft_skills"": [
+      ""analytical skills"",
+      ""creative skills"",
+      ""positive thinking"",
+      ""good conduct"",
+      ""hard working""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 2,
+    ""months"": 8
+  }
+}","{
+  ""name"": ""amit kumar"",
+  ""contact_info"": {
+    ""email"": ""amit7607183292@gmail.com"",
+    ""phone"": ""07080416380, 7505231040""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": """",
+      ""institution"": ""c s j m university, kanpur"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""three years diploma"",
+      ""branch"": """",
+      ""institution"": ""haame lucknow"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""b-cube it solutions pvt ltd"",
+      ""job_title"": ""sales co-ordinator"",
+      ""start_date"": """",
+      ""end_date"": """"
+    },
+    {
+      ""company_name"": ""five rivers consumer product, new delhi"",
+      ""job_title"": ""sales officer"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""april 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""computer diploma""
+    ],
+    ""soft_skills"": [
+      ""analytical skills"",
+      ""creative skills"",
+      ""positive thinking"",
+      ""good conduct"",
+      ""hard working""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 2,
+    ""months"": 8
+  }
+}",,78.11,87.5,"{
+  ""name"": ""amit kumar"",
+  ""contact_info"": {
+    ""email"": ""amit7607183292@gmail.com"",
+    ""phone"": ""07080416380, 7505231040""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""c.s_j.m. university, kanpur"",
+      ""institution"": ""c.s_j.m. university, kanpur"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""three years engg"",
+      ""branch"": ""instrument & electrical"",
+      ""institution"": ""haame lucknow"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": """",
+      ""institution"": ""u.p. board"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": """",
+      ""institution"": ""c.b.s.e. board"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""b-cube it solutions pvt. ltd."",
+      ""job_title"": ""sales co-ordinator"",
+      ""start_date"": """",
+      ""end_date"": """"
+    },
+    {
+      ""company_name"": ""five rivers consumer product, new delhi"",
+      ""job_title"": ""sales officer"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""april 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""computer diploma""
+    ],
+    ""soft_skills"": [
+      ""analytical skills"",
+      ""hard working"",
+      ""good conduct"",
+      ""creative skills"",
+      ""positive thinking""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 2,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""amit kumar"",
+  ""contact_info"": {
+    ""email"": ""amit7607183292@gmail.com"",
+    ""phone"": ""07080416380, 7505231040""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""c.s_j.m. university, kanpur"",
+      ""institution"": ""c.s_j.m. university, kanpur"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""three years engg (instrument & electrical)"",
+      ""branch"": ""haame lucknow"",
+      ""institution"": ""haame lucknow"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""intermediate"",
+      ""branch"": ""u.p. board"",
+      ""institution"": ""u.p. board"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""c.b.s.e. board"",
+      ""institution"": ""c.b.s.e. board"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""computer diploma"",
+      ""branch"": ""sky base computer centre"",
+      ""institution"": ""sky base computer centre"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""b-cube it solutions pvt. ltd."",
+      ""job_title"": ""sales co-ordinator"",
+      ""start_date"": """",
+      ""end_date"": """"
+    },
+    {
+      ""company_name"": ""five rivers consumer product, new delhi"",
+      ""job_title"": ""sales officer"",
+      ""start_date"": ""may 2012"",
+      ""end_date"": ""april 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [],
+    ""soft_skills"": [
+      ""analytical skills"",
+      ""creative skills"",
+      ""positive thinking"",
+      ""good conduct"",
+      ""hard working""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 2,
+    ""months"": 11
+  }
+}",77.43,67.63
+1899.pdf,"{
+  ""name"": ""aftab alam"",
+  ""contact_info"": {
+    ""email"": ""aftabalam727@gmail.com"",
+    ""phone"": ""+918898310605""
+  },
+  ""education"": [
+    {
+      ""degree"": ""advance diploma in computer hardware and networking professional"",
+      ""branch"": ""hardware & networking"",
+      ""institution"": ""g t computer hardware engineering college, gorakhpur"",
+      ""graduation_date"": ""summer/2010""
+    },
+    {
+      ""degree"": ""b a"",
+      ""branch"": """",
+      ""institution"": ""ram ji sahai p g college, rudrapur, up"",
+      ""graduation_date"": ""summer/2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""i-tech service center"",
+      ""job_title"": ""desktop support engineer"",
+      ""start_date"": ""may 2009"",
+      ""end_date"": ""june 2011""
+    },
+    {
+      ""company_name"": ""audyogik shikshan mandal"",
+      ""job_title"": ""network engineer"",
+      ""start_date"": ""31st aug 2011"",
+      ""end_date"": ""30th july 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""lan & wan troubleshooting"",
+      ""utp cabling (cat -5)"",
+      ""network installation and configuration"",
+      ""proxy settings"",
+      ""wireless access points configuration""
+    ],
+    ""soft_skills"": [
+      ""punctuality"",
+      ""sincerity"",
+      ""hard work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""aftab alam"",
+  ""contact_info"": {
+    ""email"": ""aftabalam727@gmail.com"",
+    ""phone"": ""+918898310605""
+  },
+  ""education"": [
+    {
+      ""degree"": ""advance diploma in computer hardware and networking professional"",
+      ""branch"": ""hardware & networking"",
+      ""institution"": ""g t computer hardware engineering college, gorakhpur"",
+      ""graduation_date"": ""summer/2010""
+    },
+    {
+      ""degree"": ""ba"",
+      ""branch"": """",
+      ""institution"": ""ram ji sahai p g college, rudrapur, up"",
+      ""graduation_date"": ""summer/2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""i-tech service center"",
+      ""job_title"": ""desktop support engineer"",
+      ""start_date"": ""may 2009"",
+      ""end_date"": ""june 2011""
+    },
+    {
+      ""company_name"": ""audyogik shikshan mandal"",
+      ""job_title"": ""network engineer"",
+      ""start_date"": ""31st aug 2011"",
+      ""end_date"": ""30th july 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""lan & wan troubleshooting"",
+      ""installing lan card"",
+      ""crimping utp cables (cat-5)"",
+      ""configuring ip address & workgroup"",
+      ""proxy setting configuration"",
+      ""wireless access points configuration"",
+      ""managing hub, switch, firewall"",
+      ""providing desktop support""
+    ],
+    ""soft_skills"": [
+      ""punctuality"",
+      ""sincerity"",
+      ""hard work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""aftab alam"",
+  ""contact_info"": {
+    ""email"": ""aftabalam727@gmail.com"",
+    ""phone"": ""+918898310605""
+  },
+  ""education"": [
+    {
+      ""degree"": ""advance diploma in computer hardware and networking professional"",
+      ""branch"": ""hardware & networking"",
+      ""institution"": ""g t computer hardware engineering college, gorakhpur"",
+      ""graduation_date"": ""summer/2010""
+    },
+    {
+      ""degree"": ""ba"",
+      ""branch"": """",
+      ""institution"": ""ram ji sahai p g college, rudrapur, up"",
+      ""graduation_date"": ""summer/2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""i-tech service center"",
+      ""job_title"": ""desktop support engineer"",
+      ""start_date"": ""may 2009"",
+      ""end_date"": ""june 2011""
+    },
+    {
+      ""company_name"": ""audyogik shikshan mandal"",
+      ""job_title"": ""network engineer"",
+      ""start_date"": ""31st aug 2011"",
+      ""end_date"": ""30th july 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""lan & wan troubleshooting"",
+      ""installing lan card"",
+      ""crimping utp cables (cat-5)"",
+      ""configuring ip address & workgroup"",
+      ""proxy setting configuration"",
+      ""wireless access points configuration"",
+      ""managing hub, switch, firewall"",
+      ""providing desktop support""
+    ],
+    ""soft_skills"": [
+      ""punctuality"",
+      ""sincerity"",
+      ""hard work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 11
+  }
+}",,94.02,100.0,"{
+  ""name"": ""aftab alam"",
+  ""contact_info"": {
+    ""email"": ""aftabalam727@gmail.com"",
+    ""phone"": ""+918898310605""
+  },
+  ""education"": [
+    {
+      ""degree"": ""advance diploma in computer hardware and networking professional"",
+      ""branch"": ""hardware & networking"",
+      ""institution"": ""g t computer hardware engineering college, gorakhpur"",
+      ""graduation_date"": ""summer/2010""
+    },
+    {
+      ""degree"": ""b.a"",
+      ""branch"": """",
+      ""institution"": ""ram ji sahai p g college, rudrapur, up"",
+      ""graduation_date"": ""summer/2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""i-tech service center"",
+      ""job_title"": ""desktop support engineer"",
+      ""start_date"": ""may 2009"",
+      ""end_date"": ""june 2011""
+    },
+    {
+      ""company_name"": ""audyogik shikshan mandal (pune)"",
+      ""job_title"": ""network engineer"",
+      ""start_date"": ""31st aug 2011"",
+      ""end_date"": ""30th july 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""configuring ip address & workgroup"",
+      ""lan & wan troubleshooting"",
+      ""proxy setting configuration"",
+      ""configuring netgear wireless access points"",
+      ""installing lan card"",
+      ""configure netgear wireless access points"",
+      ""managing hub, switch, firewall"",
+      ""crimping & punching of utp cables""
+    ],
+    ""soft_skills"": [
+      ""sincerity"",
+      ""punctuality"",
+      ""hard work"",
+      ""hard work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""aftab alam"",
+  ""contact_info"": {
+    ""email"": ""aftabalam727@gmail.com"",
+    ""phone"": ""+918898310605""
+  },
+  ""education"": [
+    {
+      ""degree"": ""advance diploma in computer hardware and networking professional (adchnpro)"",
+      ""branch"": ""hardware & networking"",
+      ""institution"": ""g t computer hardware engineering college, gorakhpur"",
+      ""graduation_date"": ""summer/2010""
+    },
+    {
+      ""degree"": ""b.a"",
+      ""branch"": """",
+      ""institution"": ""ram ji sahai p g college, rudrapur, up"",
+      ""graduation_date"": ""summer/2013""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""i-tech service center (regd:) gorakhpur (up)"",
+      ""job_title"": ""desktop support engineer"",
+      ""start_date"": ""may 2009"",
+      ""end_date"": ""june 2011""
+    },
+    {
+      ""company_name"": ""audyogik shikshan mandal (pune)"",
+      ""job_title"": ""network engineer"",
+      ""start_date"": ""31st aug 2011"",
+      ""end_date"": ""30th july 2013""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""lan & wan troubleshooting"",
+      ""corporate labs setup"",
+      ""lan card installation"",
+      ""crimping & punching of utp cables"",
+      ""hub & switch management"",
+      ""firewall management"",
+      ""proxy setting configuration"",
+      ""wireless access points configuration""
+    ],
+    ""soft_skills"": [
+      ""punctuality"",
+      ""sincerity"",
+      ""hard work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 11
+  }
+}",90.01,93.71
+1465.pdf,"{
+  ""name"": ""b sagurulla"",
+  ""contact_info"": {
+    ""email"": ""sagurulla@hotmail.com"",
+    ""phone"": ""+971-56-6434813""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b e (electrical & electronics)"",
+      ""branch"": """",
+      ""institution"": ""anna university, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""emirates technical associates- power projects division, abu dhabi"",
+      ""job_title"": ""sr engineer \u2013 contracts, procurement & expedition"",
+      ""start_date"": ""feb'2015"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""alstom t&d india ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""sep'12"",
+      ""end_date"": ""dec'14""
+    },
+    {
+      ""company_name"": ""electro rak (india) private ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""jan'12"",
+      ""end_date"": ""sep'12""
+    },
+    {
+      ""company_name"": ""emirates technical associates- power projects division, abu dhabi"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""sept'08"",
+      ""end_date"": ""nov'11""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""supply chain management"",
+      ""project management"",
+      ""sap""
+    ],
+    ""soft_skills"": [
+      ""negotiation"",
+      ""leadership"",
+      ""multicultural communication""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 1
+  }
+}","{
+  ""name"": ""b sagurulla"",
+  ""contact_info"": {
+    ""email"": ""sagurulla@hotmail.com"",
+    ""phone"": ""+971-56-6434813""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b e"",
+      ""branch"": ""electrical & electronics"",
+      ""institution"": ""anna university, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""emirates technical associates power projects division"",
+      ""job_title"": ""sr engineer - contracts & procurement"",
+      ""start_date"": ""feb'2015"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""alstom t&d india ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""sep'12"",
+      ""end_date"": ""dec'14""
+    },
+    {
+      ""company_name"": ""electro rak (india) private ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""jan'12"",
+      ""end_date"": ""sep'12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""supply chain management"",
+      ""project management"",
+      ""general accounting principles"",
+      ""sap""
+    ],
+    ""soft_skills"": [
+      ""leadership"",
+      ""effective communication"",
+      ""multicultural environment adaptability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 11
+  }
+}","{
+  ""name"": ""b sagurulla"",
+  ""contact_info"": {
+    ""email"": ""sagurulla@hotmail.com"",
+    ""phone"": ""+971-56-6434813""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b e"",
+      ""branch"": ""electrical & electronics"",
+      ""institution"": ""anna university, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""emirates technical associates power projects division"",
+      ""job_title"": ""sr engineer - contracts & procurement"",
+      ""start_date"": ""feb'2015"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""alstom t&d india ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""sep'12"",
+      ""end_date"": ""dec'14""
+    },
+    {
+      ""company_name"": ""electro rak (india) private ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""jan'12"",
+      ""end_date"": ""sep'12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""supply chain management"",
+      ""project management"",
+      ""general accounting principles"",
+      ""sap""
+    ],
+    ""soft_skills"": [
+      ""leadership"",
+      ""effective communication"",
+      ""multicultural environment adaptability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 12,
+    ""months"": 5
+  }
+}",,68.87,83.33,"{
+  ""name"": ""b. sagurulla"",
+  ""contact_info"": {
+    ""email"": ""sagurulla@hotmail.com"",
+    ""phone"": ""+971-56-6434813""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.e"",
+      ""branch"": ""electrical & electronics"",
+      ""institution"": ""anna university, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""emirates technical associates - power projects division"",
+      ""job_title"": ""sr. engineer contracts, procurement & expedition"",
+      ""start_date"": ""feb'2015"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""alstom t&d india ltd"",
+      ""job_title"": ""engineer procurement"",
+      ""start_date"": ""sep'12"",
+      ""end_date"": ""dec'14""
+    },
+    {
+      ""company_name"": ""electro rak (india private ltd)"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""jan'12"",
+      ""end_date"": ""sep'12""
+    },
+    {
+      ""company_name"": ""emirates technical associates - power projects division"",
+      ""job_title"": ""engineer (procurement) projects"",
+      ""start_date"": ""sept'08"",
+      ""end_date"": ""nov'11""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""supply chain management"",
+      ""project management"",
+      ""techno commercial negotiations"",
+      ""sap""
+    ],
+    ""soft_skills"": [
+      ""leadership"",
+      ""motivation"",
+      ""multicultural environment adaptability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 1
+  }
+}","{
+  ""name"": ""b. sagurulla"",
+  ""contact_info"": {
+    ""email"": ""sagurulla@hotmail.com"",
+    ""phone"": ""+971-56-6434813""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.e (electrical & electronics)"",
+      ""branch"": """",
+      ""institution"": ""anna university, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""emirates technical associates_power projects division"",
+      ""job_title"": ""sr. engineer contracts, procurement & expedition"",
+      ""start_date"": ""feb'2015"",
+      ""end_date"": ""till date""
+    },
+    {
+      ""company_name"": ""alstom t&d india ltd"",
+      ""job_title"": ""engineer procurement"",
+      ""start_date"": ""sep'12"",
+      ""end_date"": ""dec'14""
+    },
+    {
+      ""company_name"": ""electro rak (india private ltd"",
+      ""job_title"": ""engineer (procurement)"",
+      ""start_date"": ""jan'12"",
+      ""end_date"": ""sep'12""
+    },
+    {
+      ""company_name"": ""emirates technical associates- power projects division abu dhabi"",
+      ""job_title"": ""engineer (procurement) projects"",
+      ""start_date"": ""sept'08"",
+      ""end_date"": ""nov'11""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""supply chain management"",
+      ""project management"",
+      ""sap""
+    ],
+    ""soft_skills"": [
+      ""techno commercial negotiations"",
+      ""leadership"",
+      ""communication""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 1,
+    ""months"": 1
+  }
+}",62.03,51.47
+1666.pdf,"{
+  ""name"": ""shaik kaleshavali"",
+  ""contact_info"": {
+    ""email"": ""skvali409@gmail.com"",
+    ""phone"": ""+91-7288816469""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electronics and communication engineering"",
+      ""institution"": ""jawaharlal nehru technological university"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""m/s khaleyat al-johed contracting company (elmec) ltd"",
+      ""job_title"": ""electrical qa/qc inspector"",
+      ""start_date"": ""april 2015"",
+      ""end_date"": ""june 2016""
+    },
+    {
+      ""company_name"": ""m/s b t applied technology (btat)"",
+      ""job_title"": ""electrical qa/qc engineer"",
+      ""start_date"": ""august 2012"",
+      ""end_date"": ""september 2014""
+    },
+    {
+      ""company_name"": ""m/s naresh i technologies (nit)"",
+      ""job_title"": ""embedded systems engineer"",
+      ""start_date"": ""july 2011"",
+      ""end_date"": ""july 2012""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""proteus 7 professional"",
+      ""c language"",
+      ""microsoft office"",
+      ""adobe components""
+    ],
+    ""soft_skills"": [
+      ""good communication"",
+      ""self-motivated"",
+      ""team player"",
+      ""interpersonal skills"",
+      ""networking""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 3
+  }
+}","{
+  ""name"": ""shaik kaleshavali"",
+  ""contact_info"": {
+    ""email"": ""engrkaleshavali@outlook.com"",
+    ""phone"": ""+91-7288816469""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electronics and communication engineering"",
+      ""institution"": ""jawaharlal nehru technological university, kakinada, india"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""m/s khaleyat al-johed contracting company (elmec) ltd"",
+      ""job_title"": ""electrical qa/qc inspector"",
+      ""start_date"": ""april 2015"",
+      ""end_date"": ""june 2016""
+    },
+    {
+      ""company_name"": ""m/s b t applied technology (btat)"",
+      ""job_title"": ""electrical qa/qc engineer"",
+      ""start_date"": ""august 2012"",
+      ""end_date"": ""september 2014""
+    },
+    {
+      ""company_name"": ""m/s naresh i technologies (nit)"",
+      ""job_title"": ""embedded systems engineer"",
+      ""start_date"": ""july 2011"",
+      ""end_date"": ""july 2012""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""proteus 7 professional"",
+      ""c language"",
+      ""microsoft office"",
+      ""adobe components""
+    ],
+    ""soft_skills"": [
+      ""good communication skills"",
+      ""team player"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 3
+  }
+}","{
+  ""name"": ""shaik kaleshavali"",
+  ""contact_info"": {
+    ""email"": ""engr.kaleshavali@outlook.com"",
+    ""phone"": ""+91-7288816469""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electronics and communication engineering"",
+      ""institution"": ""jawaharlal nehru technological university, kakinada, india"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""m/s khaleyat al-johed contracting company (elmec) ltd"",
+      ""job_title"": ""electrical qa/qc inspector"",
+      ""start_date"": ""april 2015"",
+      ""end_date"": ""june 2016""
+    },
+    {
+      ""company_name"": ""m/s b t applied technology (btat)"",
+      ""job_title"": ""electrical qa/qc engineer"",
+      ""start_date"": ""august 2012"",
+      ""end_date"": ""september 2014""
+    },
+    {
+      ""company_name"": ""m/s naresh i technologies (nit)"",
+      ""job_title"": ""embedded systems engineer"",
+      ""start_date"": ""july 2011"",
+      ""end_date"": ""july 2012""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""proteus 7 professional"",
+      ""c language"",
+      ""microsoft office"",
+      ""adobe components""
+    ],
+    ""soft_skills"": [
+      ""good communication skills"",
+      ""team player"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 3
+  }
+}",,92.87,99.88,"{
+  ""name"": ""shaik kaleshavali"",
+  ""contact_info"": {
+    ""email"": ""skvali409@gmail.com"",
+    ""phone"": ""+91-7288816469""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electronics and communication engineering"",
+      ""institution"": ""jawaharlal nehru technological university, kakinada, india"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""m/s khaleyat al-johed contracting company (elmec) ltd"",
+      ""job_title"": ""electrical qa/qc inspector"",
+      ""start_date"": ""april 2015"",
+      ""end_date"": ""june 2016""
+    },
+    {
+      ""company_name"": ""m/s b.t. applied technology (btat), makkah, saudi arabia"",
+      ""job_title"": ""electrical qa/qc engineer"",
+      ""start_date"": ""august 2012"",
+      ""end_date"": ""september 2014""
+    },
+    {
+      ""company_name"": ""m/s naresh i technologies (nit), hyderabad, india"",
+      ""job_title"": ""embedded systems engineer"",
+      ""start_date"": ""july 2011"",
+      ""end_date"": ""july 2012""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""adobe components"",
+      ""autocad"",
+      ""programming languages"",
+      ""c language"",
+      ""microsoft office"",
+      ""proteus 7 professional""
+    ],
+    ""soft_skills"": [
+      ""team player"",
+      ""leadership skills"",
+      ""inter-personal skills"",
+      ""self-motivated team player"",
+      ""quality compliance"",
+      ""networking skills"",
+      ""self-motivated"",
+      ""good communication skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 3
+  }
+}","{
+  ""name"": ""engr. shaik kaleshavali"",
+  ""contact_info"": {
+    ""email"": ""skvali4o9@gmail.com"",
+    ""phone"": ""+91-7288816469""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of technology"",
+      ""branch"": ""electronics and communication engineering"",
+      ""institution"": ""jawaharlal nehru technological university"",
+      ""graduation_date"": ""2011""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""m/s khaleyat al-johed contracting company (elmec) ltd"",
+      ""job_title"": ""electrical qa/qc inspector"",
+      ""start_date"": ""april 2015"",
+      ""end_date"": ""june 2016""
+    },
+    {
+      ""company_name"": ""m/s b.t. applied technology (btat)"",
+      ""job_title"": ""electrical qa/qc engineer"",
+      ""start_date"": ""august 2012"",
+      ""end_date"": ""september 2014""
+    },
+    {
+      ""company_name"": ""m/s naresh i technologies (nit)"",
+      ""job_title"": ""embedded systems engineer"",
+      ""start_date"": ""july 2011"",
+      ""end_date"": ""july 2012""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""proteus 7 professional"",
+      ""programming languages"",
+      ""microsoft office"",
+      ""material handling"",
+      ""testing"",
+      ""inspection"",
+      ""commissioning of electrical/electronic systems""
+    ],
+    ""soft_skills"": [
+      ""good communication skills"",
+      ""self-motivation"",
+      ""teamwork"",
+      ""interpersonal skills"",
+      ""networking"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 3
+  }
+}",85.85,72.85
+1575.pdf,"{
+  ""name"": ""magesh e"",
+  ""contact_info"": {
+    ""email"": ""ezhildossmagesh@gmail.com"",
+    ""phone"": ""+91 9035923812""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.e. (e.e.e.)"",
+      ""branch"": ""thirumalai engineering college"",
+      ""institution"": ""anna university, chennai"",
+      ""graduation_date"": ""9th may, 2014 to 7th july, 2015""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""central power research institute"",
+      ""job_title"": ""graduate apprentice trainee (testing engineer)"",
+      ""start_date"": ""8th july, 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hofincons infotech & industrial services (a division of quess corp limited)"",
+      ""job_title"": ""technician"",
+      ""start_date"": ""date not specified"",
+      ""end_date"": ""date not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""third party inspection"",
+      ""energy audit"",
+      ""switchgear operations & maintenance"",
+      ""performance analysis of pump and motor"",
+      ""testing of power inverters"",
+      ""d.g. monitoring"",
+      ""solar design engineering"",
+      ""energy efficiency"",
+      ""renewable energy"",
+      ""solar pv power plant components"",
+      ""operation & maintenance of solar pv power plants"",
+      ""electrical power measurements"",
+      ""control panel testing"",
+      ""flue gas analysis"",
+      ""efficiency parameter measurement"",
+      ""electrical system maintenance"",
+      ""energy management"",
+      ""facility management services""
+    ],
+    ""soft_skills"": [
+      ""work scheduling and planning"",
+      ""positive thinking"",
+      ""right attitude"",
+      ""good interpersonal skills"",
+      ""leadership skills""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 1
+  }
+}","{
+  ""name"": ""magesh e"",
+  ""contact_info"": {
+    ""email"": ""ezhildossmagesh@gmail.com"",
+    ""phone"": ""+91 9035923812""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.e. (e.e.e.)"",
+      ""branch"": ""anna university chennai"",
+      ""institution"": ""thirumalai engineering college"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": ""department of government education"",
+      ""institution"": ""st. andrew's hr. sec school, chennai"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""branch"": ""department of government education"",
+      ""institution"": ""st. andrew's hr. sec school, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""central power research institute"",
+      ""job_title"": ""graduate apprentice trainee (testing engineer)"",
+      ""start_date"": ""8th july 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hofincons infotech & industrial"",
+      ""job_title"": ""technician"",
+      ""start_date"": ""9th may 2014"",
+      ""end_date"": ""7th july 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""matlab""
+    ],
+    ""soft_skills"": [
+      ""work scheduling and planning"",
+      ""positive thinking"",
+      ""interpersonal communication"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 10,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""magesh e"",
+  ""contact_info"": {
+    ""email"": ""ezhildossmagesh@gmail.com"",
+    ""phone"": ""+91 9035923812""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.e. (e.e.e.)"",
+      ""branch"": ""anna university chennai"",
+      ""institution"": ""thirumalai engineering college"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": ""department of government education"",
+      ""institution"": ""st. andrew's hr. sec school, chennai"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""sslc"",
+      ""branch"": ""department of government education"",
+      ""institution"": ""st. andrew's hr. sec school, chennai"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""central power research institute"",
+      ""job_title"": ""graduate apprentice trainee (testing engineer)"",
+      ""start_date"": ""8th july 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hofincons infotech & industrial"",
+      ""job_title"": ""technician"",
+      ""start_date"": ""9th may 2014"",
+      ""end_date"": ""7th july 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""matlab""
+    ],
+    ""soft_skills"": [
+      ""work scheduling and planning"",
+      ""positive thinking"",
+      ""interpersonal communication"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 10,
+    ""months"": 2
+  }
+}",,53.51,100.0,"{
+  ""name"": ""magesh e"",
+  ""contact_info"": {
+    ""email"": ""ezhildossmagesh@gmail.com"",
+    ""phone"": ""+91 9035923812""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be (e.ee)"",
+      ""branch"": ""electrical and electronics engineering"",
+      ""institution"": ""thirumalai engineering college"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""hs.c"",
+      ""branch"": ""science"",
+      ""institution"": ""st. andrew's hr.sec school"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""s.s.l.c"",
+      ""branch"": ""general"",
+      ""institution"": ""st. andrew's hr.sec school"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""central power research institute"",
+      ""job_title"": ""graduate apprentice trainee (testing engineer)"",
+      ""start_date"": ""8th july, 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hofincons infotech & industriac"",
+      ""job_title"": ""technician"",
+      ""start_date"": ""9th may, 2014"",
+      ""end_date"": ""7th july, 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""d.g. monitoring"",
+      ""energy audit"",
+      ""performance analysis of pump and motor"",
+      ""switchgear operations & maintenance"",
+      ""autocad"",
+      ""third party inspection"",
+      ""testing of power inverters"",
+      ""solar pv power plant components and energy metering"",
+      ""operation and maintenance of solar pv power plants"",
+      ""flue gas analysis""
+    ],
+    ""soft_skills"": [
+      ""work scheduling and planning"",
+      ""good interpersonal and leadership skills"",
+      ""positive thinking"",
+      ""positive thinking and right attitude""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 10,
+    ""months"": 2
+  }
+}","{
+  ""name"": ""mageshe"",
+  ""contact_info"": {
+    ""email"": ""ezhildossmagesh@gmail.com"",
+    ""phone"": ""+91 9035923812""
+  },
+  ""education"": [
+    {
+      ""degree"": ""be (e.ee)"",
+      ""branch"": ""electrical and electronics engineering"",
+      ""institution"": ""thirumalai engineering college"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""h.s.c"",
+      ""branch"": ""not specified"",
+      ""institution"": ""st. andrew's hr sec school"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""s.s.l.c"",
+      ""branch"": ""not specified"",
+      ""institution"": ""st. andrew's hr sec school"",
+      ""graduation_date"": ""2008""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""central power research institute"",
+      ""job_title"": ""graduate apprentice trainee (testing engineer)"",
+      ""start_date"": ""8th july, 2015"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""hofincons infotech & industriac"",
+      ""job_title"": ""technician"",
+      ""start_date"": ""9th may, 2014"",
+      ""end_date"": ""7th july, 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad"",
+      ""energy audit"",
+      ""performance analysis"",
+      ""testing of power inverters"",
+      ""d.g monitoring"",
+      ""solar pv power plant components"",
+      ""operation & maintenance of solar pv power plants""
+    ],
+    ""soft_skills"": [
+      ""work scheduling"",
+      ""positive thinking"",
+      ""inter-personal communication"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 10,
+    ""months"": 2
+  }
+}",77.68,64.69
+1271.pdf,{},"{
+  ""name"": ""bibhuti bhusana sahu"",
+  ""contact_info"": {
+    ""email"": ""bibhuti_voltas@yahoo.com"",
+    ""phone"": ""+91 9836244633, +91 8895482500""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b tech"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""kiiet, cuttack"",
+      ""graduation_date"": ""year of completion not provided""
+    },
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""sctevt technology, rourkela"",
+      ""graduation_date"": ""2003""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""cde asia ltd"",
+      ""job_title"": ""sales service engineer"",
+      ""start_date"": ""18 july 2013"",
+      ""end_date"": ""ongoing""
+    },
+    {
+      ""company_name"": ""voltas ltd"",
+      ""job_title"": ""erection commissioning engineer"",
+      ""start_date"": ""february 2008"",
+      ""end_date"": ""june 2013""
+    },
+    {
+      ""company_name"": ""grewal associates pvt ltd"",
+      ""job_title"": ""asst eletrical engineer"",
+      ""start_date"": ""december 2006"",
+      ""end_date"": ""january 2008""
+    },
+    {
+      ""company_name"": ""nn projects ltd"",
+      ""job_title"": ""technical support engineer (elect)"",
+      ""start_date"": ""december 2004"",
+      ""end_date"": ""august 2006""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical maintenance"",
+      ""sales"",
+      ""service engineering"",
+      ""erection & commissioning""
+    ],
+    ""soft_skills"": [
+      ""problem-solving"",
+      ""customer support"",
+      ""team coordination""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 19,
+    ""months"": 1
+  }
+}","{
+  ""name"": ""bibhuti bhusana sahu"",
+  ""contact_info"": {
+    ""email"": ""bibhuti_voltas@yahoo.com"",
+    ""phone"": ""+91 9836244633, +91 8895482500""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b tech"",
+      ""branch"": """",
+      ""institution"": ""kiiet, cuttack"",
+      ""graduation_date"": ""year of completion not provided""
+    },
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""sctevt technology, rourkela"",
+      ""graduation_date"": ""2003""
+    },
+    {
+      ""degree"": ""matriculation"",
+      ""branch"": """",
+      ""institution"": ""hsc cuttack"",
+      ""graduation_date"": ""1999""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""cde asia ltd"",
+      ""job_title"": ""sales service engineer"",
+      ""start_date"": ""18 july 2013"",
+      ""end_date"": ""ongoing""
+    },
+    {
+      ""company_name"": ""voltas ltd"",
+      ""job_title"": ""erection commissioning engineer"",
+      ""start_date"": ""february 2008"",
+      ""end_date"": ""june 2013""
+    },
+    {
+      ""company_name"": ""gapl(song iron division)"",
+      ""job_title"": ""asst eletrical engineer"",
+      ""start_date"": ""december 2006"",
+      ""end_date"": ""january 2008""
+    },
+    {
+      ""company_name"": ""nn projects ltd"",
+      ""job_title"": ""technical support engineer (elect)"",
+      ""start_date"": ""december 2004"",
+      ""end_date"": ""august 2006""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical maintenance"",
+      ""sales"",
+      ""service engineering"",
+      ""erection & commissioning""
+    ],
+    ""soft_skills"": [
+      ""problem-solving"",
+      ""customer support"",
+      ""team coordination""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 19,
+    ""months"": 1
+  }
+}",,0.0,93.49,"{
+  ""name"": ""bibhuti bhusana sahu"",
+  ""contact_info"": {
+    ""email"": ""bibhuti_voltas@yahoo.com"",
+    ""phone"": ""+91 9836244633 / +91 8895482500""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.tech"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""rajasthan kiiet, cuttack"",
+      ""graduation_date"": ""study in progress""
+    },
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""sctevt technology, rourkela"",
+      ""graduation_date"": """"
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": """",
+      ""institution"": ""maa mangala high school, cuttack, jajpur"",
+      ""graduation_date"": """"
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""cde asia ltd"",
+      ""job_title"": ""sales service engineer"",
+      ""start_date"": ""july 2013"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""voltas ltd"",
+      ""job_title"": ""erection commissioning engineer"",
+      ""start_date"": ""2008"",
+      ""end_date"": ""june 2013""
+    },
+    {
+      ""company_name"": ""gapl (spong iron division)"",
+      ""job_title"": ""asst. electrical engineer"",
+      ""start_date"": ""january 2006"",
+      ""end_date"": ""december 2006""
+    },
+    {
+      ""company_name"": ""nn projects ltd"",
+      ""job_title"": ""technical support engineer (elect.)"",
+      ""start_date"": ""december 2004"",
+      ""end_date"": ""august 2006""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical mechanical troubleshooting"",
+      ""3 phase induction motor maintenance"",
+      ""plc & hydraulic system maintenance""
+    ],
+    ""soft_skills"": [
+      ""team management"",
+      ""pgdca"",
+      ""microsoft office"",
+      ""problem solving"",
+      ""customer service""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 18,
+    ""months"": 6
+  }
+}","{
+  ""name"": ""bibhuti bhusana sahu"",
+  ""contact_info"": {
+    ""email"": ""bibhuti_voltas@yahoo.com"",
+    ""phone"": ""+91 9836244633, +91 8895482500""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.tech"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""rajasthan kiiet, cuttack"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""diploma in electrical engineering"",
+      ""branch"": ""not specified"",
+      ""institution"": ""sctevt technology, rourkela"",
+      ""graduation_date"": ""not specified""
+    },
+    {
+      ""degree"": ""hsc"",
+      ""branch"": ""not specified"",
+      ""institution"": ""maa mangala high school, cuttack jajpur"",
+      ""graduation_date"": ""not specified""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""cde asia ltd"",
+      ""job_title"": ""sales service engineer"",
+      ""start_date"": ""july 2013"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""voltas ltd"",
+      ""job_title"": ""erection commissioning engineer"",
+      ""start_date"": ""2008"",
+      ""end_date"": ""june 2013""
+    },
+    {
+      ""company_name"": ""mls.grewal associates pvt ltd"",
+      ""job_title"": ""asst. electrical engineer"",
+      ""start_date"": ""december 2004"",
+      ""end_date"": ""january 2008""
+    },
+    {
+      ""company_name"": ""nn projects ltd"",
+      ""job_title"": ""technical support engineer (electrical)"",
+      ""start_date"": ""december 2004"",
+      ""end_date"": ""august 2006""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""electrical maintenance"",
+      ""mechanical maintenance"",
+      ""sales service"",
+      ""erection & commissioning""
+    ],
+    ""soft_skills"": [
+      ""problem-solving"",
+      ""communication"",
+      ""teamwork""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 20,
+    ""months"": 8
+  }
+}",61.41,62.93
+Julie Plink Resume.pdf,,,,,,,"{
+  ""name"": ""julie plink"",
+  ""contact_info"": {
+    ""email"": ""jcp332@cornell.edu"",
+    ""phone"": ""(914) 319-6351""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.s. in computer science"",
+      ""branch"": ""college of engineering"",
+      ""institution"": ""cornell university"",
+      ""graduation_date"": ""may 2025""
+    },
+    {
+      ""degree"": ""course in physics ii: electricity and magnetism"",
+      ""branch"": """",
+      ""institution"": ""fordham university"",
+      ""graduation_date"": ""august 2022""
+    },
+    {
+      ""degree"": ""high school diploma"",
+      ""branch"": """",
+      ""institution"": ""rye high school"",
+      ""graduation_date"": ""june 2021""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""casetext"",
+      ""job_title"": ""virtual software engineering intern, special projects"",
+      ""start_date"": ""june 2023"",
+      ""end_date"": ""august 2023""
+    },
+    {
+      ""company_name"": ""cs 3110: functional programming and data structures"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""august 2023"",
+      ""end_date"": ""december 2023""
+    },
+    {
+      ""company_name"": ""albert einstein college of medicine"",
+      ""job_title"": ""image analysis assistant intern"",
+      ""start_date"": ""may 2020"",
+      ""end_date"": ""july 2020""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""git"",
+      ""html"",
+      ""microsoft office"",
+      ""java"",
+      ""ocaml"",
+      ""css"",
+      ""python""
+    ],
+    ""soft_skills"": [
+      ""time management"",
+      ""team collaboration"",
+      ""highly motivated"",
+      ""energetic"",
+      ""collaboration"",
+      ""leadership""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 8
+  }
+}","{
+  ""name"": ""julie plink"",
+  ""contact_info"": {
+    ""email"": ""jcp332@cornell.edu"",
+    ""phone"": ""(914) 319-6351""
+  },
+  ""education"": [
+    {
+      ""degree"": ""b.s in computer science"",
+      ""branch"": ""college of engineering"",
+      ""institution"": ""cornell university"",
+      ""graduation_date"": ""may 2025""
+    },
+    {
+      ""degree"": ""course in physics ii: electricity and magnetism"",
+      ""branch"": """",
+      ""institution"": ""fordham university"",
+      ""graduation_date"": ""august 2022""
+    },
+    {
+      ""degree"": ""high school diploma"",
+      ""branch"": """",
+      ""institution"": ""rye high school"",
+      ""graduation_date"": ""june 2021""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""casetext"",
+      ""job_title"": ""virtual software engineering intern, special projects"",
+      ""start_date"": ""june 2023"",
+      ""end_date"": ""august 2023""
+    },
+    {
+      ""company_name"": ""cs 3110: functional programming and data structures, cornell university"",
+      ""job_title"": ""consultant"",
+      ""start_date"": ""august 2023"",
+      ""end_date"": ""december 2023""
+    },
+    {
+      ""company_name"": ""albert einstein college of medicine"",
+      ""job_title"": ""image analysis assistant intern"",
+      ""start_date"": ""may 2020"",
+      ""end_date"": ""july 2020""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""html"",
+      ""css"",
+      ""java"",
+      ""python"",
+      ""ocaml"",
+      ""microsoft office"",
+      ""git""
+    ],
+    ""soft_skills"": [
+      ""highly motivated"",
+      ""energetic"",
+      ""team player"",
+      ""time management"",
+      ""project management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 8
+  }
+}",,
+CV Jan Korczynski.pdf,,,,,,,"{
+  ""name"": ""jan korczy\u0144ski"",
+  ""contact_info"": {
+    ""email"": ""korczynskijanek24@gmail.com"",
+    ""phone"": ""+48 791 633 136""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""artificial intelligence"",
+      ""institution"": ""vrije universiteit"",
+      ""graduation_date"": ""september 2021""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""ai&ml it managerl paidwork"",
+      ""job_title"": ""it manager"",
+      ""start_date"": ""november 2023"",
+      ""end_date"": ""march 2024""
+    },
+    {
+      ""company_name"": ""cruzzie inc"",
+      ""job_title"": ""backend engineer intern"",
+      ""start_date"": ""june 2023"",
+      ""end_date"": ""august 2023""
+    },
+    {
+      ""company_name"": ""python developer training"",
+      ""job_title"": ""trainee"",
+      ""start_date"": ""january 2023"",
+      ""end_date"": ""february 2023""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""r programming"",
+      ""ai"",
+      ""backend"",
+      ""typescript"",
+      ""sql"",
+      ""javascript"",
+      ""data analytics"",
+      ""machine learning"",
+      ""apis"",
+      ""python (numpy, pandas, pytorch, opencv)"",
+      ""backend development""
+    ],
+    ""soft_skills"": [
+      ""timekeeping"",
+      ""fast learning abilities"",
+      ""methodical and diligence"",
+      ""well-organized team player"",
+      ""excellent communication skills"",
+      ""computational thinking""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 7
+  }
+}",,,
+Resume - Jan Korczynski.pdf,,,,,,,"{
+  ""name"": ""jan korczy\u0144ski"",
+  ""contact_info"": {
+    ""email"": ""korczynskijanek24@gmail.com"",
+    ""phone"": ""+48791633136""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor's degree"",
+      ""branch"": ""artificial intelligence"",
+      ""institution"": ""vrije universiteit amsterdam"",
+      ""graduation_date"": ""present""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""paidowork"",
+      ""job_title"": ""ai&ml it manager"",
+      ""start_date"": ""october 2023"",
+      ""end_date"": ""march 2024""
+    },
+    {
+      ""company_name"": ""cruzzie inc."",
+      ""job_title"": ""backend engineer intern"",
+      ""start_date"": ""june 2023"",
+      ""end_date"": ""august 2023""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""mongodb"",
+      ""backend"",
+      ""ml"",
+      ""node.js"",
+      ""apis"",
+      ""pandas"",
+      ""ai"",
+      ""express.js"",
+      ""sql"",
+      ""mysql"",
+      ""data engineering"",
+      ""typescript"",
+      ""tensorflow"",
+      ""javascript"",
+      ""postgresql"",
+      ""r programming"",
+      ""opencv"",
+      ""pytorch"",
+      ""oauth"",
+      ""python"",
+      ""numpy""
+    ],
+    ""soft_skills"": [
+      ""timekeeping"",
+      ""methodical"",
+      ""fast learning abilities"",
+      ""data analytics"",
+      ""methodical and diligence"",
+      ""diligence"",
+      ""well-organized team player"",
+      ""team player"",
+      ""machine learning"",
+      ""excellent communication skills"",
+      ""innovation-driven"",
+      ""computational thinking""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 7
+  }
+}",,,
+CV_JanKorczynski .pdf,,,,,,,"{
+  ""name"": ""jan korczynski"",
+  ""contact_info"": {
+    ""email"": ""korczynskijanek24@gmail.com"",
+    ""phone"": ""+48 791 633 136""
+  },
+  ""education"": [
+    {
+      ""degree"": ""bachelor of science"",
+      ""branch"": ""artificial intelligence"",
+      ""institution"": ""vrije universiteit"",
+      ""graduation_date"": ""july 2024""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""infosys limited"",
+      ""job_title"": ""artificial intelligence engineer intern"",
+      ""start_date"": ""july 2024"",
+      ""end_date"": ""september 2024""
+    },
+    {
+      ""company_name"": ""paidwork"",
+      ""job_title"": ""ai&ml it manager"",
+      ""start_date"": ""october 2023"",
+      ""end_date"": ""march 2024""
+    },
+    {
+      ""company_name"": ""cruzzie inc."",
+      ""job_title"": ""backend engineer intern"",
+      ""start_date"": ""june 2023"",
+      ""end_date"": ""august 2023""
+    },
+    {
+      ""company_name"": ""brainnest"",
+      ""job_title"": ""python developer training"",
+      ""start_date"": ""january 2023"",
+      ""end_date"": ""february 2023""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""r programming"",
+      ""ai"",
+      ""data analytics"",
+      ""machine learning"",
+      ""basics of r programming"",
+      ""typescript"",
+      ""machine learning"",
+      ""data analytics"",
+      ""apis"",
+      ""backend"",
+      ""python (numpy, pandas, pytorch, opencv)"",
+      ""sql"",
+      ""javascript""
+    ],
+    ""soft_skills"": [
+      ""excellent communication skills"",
+      ""well-organized team player"",
+      ""well-organized team player"",
+      ""methodical and diligence"",
+      ""timekeeping"",
+      ""fast learning abilities"",
+      ""computational thinking"",
+      ""fast learning abilities"",
+      ""timekeeping"",
+      ""excellent communication skills"",
+      ""methodical and diligence""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 10
+  }
+}",,,
+CV-Fernando A. Alba C. English.pdf,,,,,,,"{
+  ""name"": ""fernando alberto alba castro"",
+  ""contact_info"": {
+    ""email"": ""fernandoalba071@gmail.com"",
+    ""phone"": ""618-266-91-39""
+  },
+  ""education"": [
+    {
+      ""degree"": ""master business administration candidate"",
+      ""branch"": ""business administration"",
+      ""institution"": ""ipade business school, mty, mexico"",
+      ""graduation_date"": ""in progress""
+    },
+    {
+      ""degree"": ""speciality in operations management"",
+      ""branch"": ""operations management"",
+      ""institution"": ""universidad panamericana, ags, mexico"",
+      ""graduation_date"": ""completed""
+    },
+    {
+      ""degree"": ""green belt accreditation"",
+      ""branch"": ""lean six sigma"",
+      ""institution"": ""universidad panamericana, ags, mexico"",
+      ""graduation_date"": ""completed""
+    },
+    {
+      ""degree"": ""industrial engineering"",
+      ""branch"": ""engineering"",
+      ""institution"": ""universidad panamericana, ags, mexico"",
+      ""graduation_date"": ""completed""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""software cooper"",
+      ""job_title"": ""logistic analyst"",
+      ""start_date"": """",
+      ""end_date"": """"
+    },
+    {
+      ""company_name"": ""wiremasters"",
+      ""job_title"": ""sales support laser mark expertise"",
+      ""start_date"": """",
+      ""end_date"": """"
+    },
+    {
+      ""company_name"": ""los canastos"",
+      ""job_title"": ""production intern"",
+      ""start_date"": """",
+      ""end_date"": """"
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""solid works"",
+      ""minitab"",
+      ""office"",
+      ""power bi"",
+      ""flexsim""
+    ],
+    ""soft_skills"": [
+      ""problem-solving"",
+      ""teamwork"",
+      ""logical/mathematical thinking"",
+      ""responsible leadership"",
+      ""leadership"",
+      ""rational thinking"",
+      ""solving problems in a practical manner"",
+      ""rational thinking""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",,,
+cv_antonio_ochotorena202210.pdf,,,,,,,"{
+  ""name"": ""antonio ochotorena"",
+  ""contact_info"": {
+    ""email"": ""antonioochotorena@gmail.com"",
+    ""phone"": ""+34 636 426 538""
+  },
+  ""education"": [
+    {
+      ""degree"": ""master of science"",
+      ""branch"": ""biomedical engineering"",
+      ""institution"": ""universidad politecnica de madrid"",
+      ""graduation_date"": ""2021""
+    },
+    {
+      ""degree"": ""bachelor's degree"",
+      ""branch"": ""biomedical engineering"",
+      ""institution"": ""universidad politecnica de madrid"",
+      ""graduation_date"": ""2019""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""minsait"",
+      ""job_title"": ""strategy business consultant"",
+      ""start_date"": ""09/2021"",
+      ""end_date"": ""now""
+    },
+    {
+      ""company_name"": ""hospital ramon y cajal (irycis)"",
+      ""job_title"": ""data science unit"",
+      ""start_date"": ""01/2021"",
+      ""end_date"": ""09/2021""
+    },
+    {
+      ""company_name"": ""national cancer center (cnio)"",
+      ""job_title"": ""internship"",
+      ""start_date"": ""01/2019"",
+      ""end_date"": ""05/2019""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""docker"",
+      ""python"",
+      ""numpy"",
+      ""mongodb"",
+      ""deep learning"",
+      ""django"",
+      ""react"",
+      ""java"",
+      ""matlab"",
+      ""r"",
+      ""c#"",
+      ""keras"",
+      ""shiny"",
+      ""scikit-learn"",
+      ""powerbi"",
+      ""pandas"",
+      ""tensorflow"",
+      ""tableau"",
+      ""sql"",
+      ""javascript"",
+      ""flask"",
+      ""c++""
+    ],
+    ""soft_skills"": [
+      ""hard-working"",
+      ""attentive to detail"",
+      ""self-sufficient"",
+      ""enthusiastic"",
+      ""detail-oriented"",
+      ""communicative"",
+      ""motivated""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 11
+  }
+}",,,
+CV_AntonioOchotorena102022.pdf,,,,,,,"{
+  ""name"": ""antonio ochotorena"",
+  ""contact_info"": {
+    ""email"": ""antonioochotorena@gmail.com"",
+    ""phone"": ""+34-636 426 538""
+  },
+  ""education"": [
+    {
+      ""degree"": ""msc in biomedical engineering"",
+      ""branch"": ""biomedical engineering"",
+      ""institution"": ""polytechnic university of madrid"",
+      ""graduation_date"": ""june 2021""
+    },
+    {
+      ""degree"": ""degree in biomedical engineering"",
+      ""branch"": ""biomedical engineering"",
+      ""institution"": ""polytechnic university of madrid"",
+      ""graduation_date"": ""june 2019""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""minsait"",
+      ""job_title"": ""data scientist"",
+      ""start_date"": ""september 2021"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""ramon y cajal hospital"",
+      ""job_title"": ""data scientist"",
+      ""start_date"": ""january 2021"",
+      ""end_date"": ""september 2021""
+    },
+    {
+      ""company_name"": ""spanish national cancer research center"",
+      ""job_title"": ""intern data scientist"",
+      ""start_date"": ""february 2019"",
+      ""end_date"": ""april 2019""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""tableau"",
+      ""azure"",
+      ""sql"",
+      ""scikit-learn"",
+      ""pandas"",
+      ""react"",
+      ""cloud services (aws & azure)"",
+      ""flask"",
+      ""alteryx"",
+      ""hadoop"",
+      ""django"",
+      ""javascript"",
+      ""apache"",
+      ""tensorflow"",
+      ""aws"",
+      ""python"",
+      ""powerbi"",
+      ""scikit-learn"",
+      ""advanced sql"",
+      ""java"",
+      ""spark""
+    ],
+    ""soft_skills"": [
+      ""problem-solving"",
+      ""proactive"",
+      ""attention to detail"",
+      ""hard-working"",
+      ""communicative"",
+      ""impactful"",
+      ""detail-oriented"",
+      ""data-driven solutions"",
+      ""innovative""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 3,
+    ""months"": 9
+  }
+}",,,
+John_Doe_Resume.pdf,,,,,,,"{
+  ""name"": ""john doe"",
+  ""contact_info"": {
+    ""email"": ""johndoe@email.com"",
+    ""phone"": ""+31 6 12345678""
+  },
+  ""education"": [
+    {
+      ""degree"": ""master of business administration (mba)"",
+      ""branch"": ""strategy and data analytics"",
+      ""institution"": ""insead"",
+      ""graduation_date"": ""2014""
+    },
+    {
+      ""degree"": ""bachelor of science in computer science"",
+      ""branch"": ""applied mathematics, artificial intelligence"",
+      ""institution"": ""university college london (ucl)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""infosys"",
+      ""job_title"": ""senior data & ai strategist"",
+      ""start_date"": ""jan 2018"",
+      ""end_date"": ""present""
+    },
+    {
+      ""company_name"": ""techcorp solutions"",
+      ""job_title"": ""head of data & analytics"",
+      ""start_date"": ""sep 2014"",
+      ""end_date"": ""dec 2017""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""applied mathematics"",
+      ""data pipelines"",
+      ""machine learning"",
+      ""cloud-native data estates""
+    ],
+    ""soft_skills"": [
+      ""team development"",
+      ""project management"",
+      ""business narrative development"",
+      ""p&l management"",
+      ""strategy execution"",
+      ""communication & storytelling"",
+      ""business transformation"",
+      ""emerging tech awareness"",
+      ""public speaking"",
+      ""change management""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 9,
+    ""months"": 10
+  }
+}",,,
+CV_FernandoAlba_English.pdf,,,,,,,"{
+  ""name"": ""fernando alberto alba castro"",
+  ""contact_info"": {
+    ""email"": ""fer.alba@alumni.ipade.mx"",
+    ""phone"": ""(618) 266-9139""
+  },
+  ""education"": [
+    {
+      ""degree"": ""full-time mba"",
+      ""branch"": ""operations management"",
+      ""institution"": ""ipade business school"",
+      ""graduation_date"": ""2025""
+    },
+    {
+      ""degree"": ""operations management specialty"",
+      ""branch"": """",
+      ""institution"": ""universidad panamericana"",
+      ""graduation_date"": ""2023""
+    },
+    {
+      ""degree"": ""industrial engineer"",
+      ""branch"": """",
+      ""institution"": ""universidad panamericana"",
+      ""graduation_date"": ""2022""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""cooper standard"",
+      ""job_title"": ""logistic analyst"",
+      ""start_date"": ""april 2023"",
+      ""end_date"": ""july 2023""
+    },
+    {
+      ""company_name"": ""wiremasters"",
+      ""job_title"": ""sales support"",
+      ""start_date"": ""july 2022"",
+      ""end_date"": ""april 2023""
+    },
+    {
+      ""company_name"": ""continental"",
+      ""job_title"": ""production intern"",
+      ""start_date"": ""march 2022"",
+      ""end_date"": ""june 2022""
+    },
+    {
+      ""company_name"": ""los canastos"",
+      ""job_title"": ""inventory-warehouse management"",
+      ""start_date"": ""november 2018"",
+      ""end_date"": ""march 2022""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""office"",
+      ""power bi"",
+      ""tableau"",
+      ""flexsim"",
+      ""minitab""
+    ],
+    ""soft_skills"": [
+      ""customer service"",
+      ""supply chain management"",
+      ""process improvement""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 7
+  }
+}",,,

@@ -1,0 +1,552 @@
+FileName,PDFLoaderExtraction,OCRExtraction,CombinedOCRPDFExtraction,EasyOCRExtraction,CorrectExtraction,OCRAccuracy,LoaderAccuracy,CombinedOCRAccuracy,EasyOCRAccuracy
+1632.pdf,"{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in engineering (civil)"",
+      ""branch"": ""civil"",
+      ""institution"": ""emperial institute of management science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""ms office word/excel"",
+      ""net surfing and downloading"",
+      ""autocad: architectural designing, engineering drawings, highway drawings, draughtsman work"",
+      ""printing all size a4/a3, soft copies"",
+      ""email, scanning, printing, fax"",
+      ""xp operating, windows/vista/2007""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""strong problem solver"",
+      ""adaptive to any situation"",
+      ""ready to work in shifts"",
+      ""confident and persistency of work""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in civil engineering"",
+      ""branch"": ""civil"",
+      ""institution"": ""emperial institute of management science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad (architectural designing, engineering)"",
+      ""ms office word/excel"",
+      ""net surfing and downloading""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""problem solver"",
+      ""adaptive to any situation"",
+      ""confident and persistent worker""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""civil engineering"",
+      ""institution"": ""emperial institute of management engineer science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008 jan"",
+      ""end_date"": ""2010 feb""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""april 2013"",
+      ""end_date"": ""dec. 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""architectural designing"",
+      ""engineering drawings"",
+      ""autocad"",
+      ""highway drawings"",
+      ""draughtsman work"",
+      ""autocad: architectural designing, engineering drawings, highway drawings, draughtsman work""
+    ],
+    ""soft_skills"": [
+      ""confident and persistency of work"",
+      ""solid communicator"",
+      ""confident and persistent"",
+      ""adaptive to any situation"",
+      ""strong problem solver""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""civil engineering"",
+      ""institution"": ""emperial institute of management engineering science & research, delhi"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": ""2008-01"",
+      ""end_date"": ""2010-02""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": ""2013-04"",
+      ""end_date"": ""2015-12""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""autocad architectural designing"",
+      ""engineering drawings"",
+      ""highway drawings"",
+      ""draughtsman work""
+    ],
+    ""soft_skills"": [
+      ""solid communicator"",
+      ""strong problem solver"",
+      ""adaptive to any situation"",
+      ""confident and persistent""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}","{
+  ""name"": ""rahil riyaz"",
+  ""contact_info"": {
+    ""email"": ""rahilriyaz82@yahoo.co.in"",
+    ""phone"": ""9644751518""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma in civil engineering"",
+      ""branch"": “civil engineering"",
+      ""institution"": ""emperial institute of management science & research (delhi)"",
+      ""graduation_date"": ""2012""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""vikas associates engineers and architect"",
+      ""job_title"": ""draughtsman"",
+      ""start_date"": “2008 jan"",
+      ""end_date"": “2010 feb""
+    },
+    {
+      ""company_name"": ""ashray engineer & architect"",
+      ""job_title"": ""draughtsman/supervision"",
+      ""start_date"": “april 2013"",
+      ""end_date"": “dec 2015""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""architectural designing"",
+      ""engineering drawings"",
+      ""autocad"",
+      ""highway drawings"",
+      ""draughtsman work"",
+      ""autocad: architectural designing, engineering drawings, highway drawings, draughtsman work""
+
+    ],
+    ""soft_skills"": [
+      ""confident and persistency of work"",
+      ""solid communicator"",
+      ""confident and persistent"",
+      ""adaptive to any situation"",
+      ""strong problem solver""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 4,
+    ""months"": 9
+  }
+}",0.0,0.0,0.0,0.0
+1543.pdf,"{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""n/a"",
+      ""institution"": ""s v n g v, gorakhpur"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""n/a"",
+      ""end_date"": ""n/a""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""n/a"",
+      ""end_date"": ""n/a""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel"",
+      ""light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger"",
+      ""hi pot"",
+      ""various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation"",
+      ""handle all work during the job""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""not specified"",
+      ""institution"": ""not specified"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""saudi aramco (saudi arabia)"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""auto cadd"",
+      ""network systems"",
+      ""control systems"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers""
+    ],
+    ""soft_skills"": [
+      ""teamwork"",
+      ""positive attitude"",
+      ""strong will power""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""na"",
+      ""institution"": ""s v n g v, gorakhpur"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""na"",
+      ""end_date"": ""na""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""na"",
+      ""end_date"": ""na""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel"",
+      ""light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger"",
+      ""hi pot"",
+      ""various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+},
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd."",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    },
+    {
+      ""company_name"": ""national construction co. (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""not specified"",
+      ""end_date"": ""not specified""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger, hi pot, various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}","{
+  ""name"": ""sudhir singh"",
+  ""contact_info"": {
+    ""email"": ""sudhirsingh1031@gmail.com"",
+    ""phone"": ""+91-8948885959, +966-536127473""
+  },
+  ""education"": [
+    {
+      ""degree"": ""diploma"",
+      ""branch"": ""electrical engineering"",
+      ""institution"": ""govt polytechnic bihar"",
+      ""graduation_date"": ""2010""
+    },
+    {
+      ""degree"": ""high school"",
+      ""branch"": ""na"",
+      ""institution"": ""s v n g v, gorakhpur"",
+      ""graduation_date"": ""2007""
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""company_name"": ""alascon company ltd"",
+      ""job_title"": ""site supervisor"",
+      ""start_date"": ""na"",
+      ""end_date"": ""na""
+    },
+    {
+      ""company_name"": ""national construction co (india)"",
+      ""job_title"": ""site incharge"",
+      ""start_date"": ""na"",
+      ""end_date"": ""na""
+    }
+  ],
+  ""skills"": {
+    ""technical_skills"": [
+      ""building electrical work"",
+      ""distribution of panel"",
+      ""light contractors"",
+      ""lighting poll erection & termination"",
+      ""transformer installation & termination"",
+      ""magger"",
+      ""hi pot"",
+      ""various cable testing & commissioning"",
+      ""data management"",
+      ""automation system"",
+      ""control & process system"",
+      ""fire alarm control system"",
+      ""plc panel"",
+      ""vfd panel"",
+      ""ddc panel"",
+      ""fire dampers, volume dampers & air balancing"",
+      ""new pipe lines & maintenance of existing pipe lines"",
+      ""pacu, pahu & ac unit installation"",
+      ""critical electrical shutdown maintenance & operation""
+    ],
+    ""soft_skills"": [
+      ""positive attitude"",
+      ""strong will power"",
+      ""teamwork capability""
+    ]
+  },
+  ""total_experience"": {
+    ""years"": 0,
+    ""months"": 0
+  }
+}",46.49,66.25,83.33,59.04

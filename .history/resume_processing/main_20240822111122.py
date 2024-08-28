@@ -1,0 +1,255 @@
+import streamlit as st
+from ocr_processing import extract_text_ocr, process_resume
+from gpt_processing import gpt3_extract_information, gpt3_generate_summary, gpt3_extract_job_information
+from utils import save_extracted_information
+import subprocess
+import time
+import logging
+from job_comparison import scrape_job_description
+
+
+# ngrok ??
+def start_localtunnel(port):
+    try: 
+        process = subprocess.Popen(['lt', '--port', str(port)], stdout=subprocess.PIPE)
+        time.sleep(2)
+        for line in process.stdout:
+            if b'kttps://' in line:
+                public_url = line.decode('utf-8').strip()
+                st.write(f'Your public URL is: {public_url}')
+                print(f'Your public URL is: {public_url}')
+                break
+    except Exception as e: 
+        st.error(f"An error occurred while starting localtunnel: {e}")
+        print(f"An error occurred while starting localtunnel: {e}")                 
+
+
+def main():
+    st.title('Enhanced Resume Information Extraction')
+
+    # URL input from recruiter
+    url = st.text_input("Enter the job description URL:", "")
+
+    # Scrape and process job description
+    if st.button("Scrape and Process Job Description"):
+        if url:
+            with st.spinner("Scraping job description..."):
+                job_text = scrape_job_description(url)
+                
+                if "error" in job_text:
+                    st.error(f"Error: {job_text['error']}")
+                else:
+                    with st.spinner("Processing job description with GPT..."):
+                        job_data = gpt3_extract_job_information(job_text)
+                        
+                        if job_data:
+                            st.session_state['job_data'] = job_data
+                            st.success("Job description successfully processed!")
+                            st.write(f"**Job Title**: {job_data['job_title']}")
+                            st.write(f"**Job Description**: {job_data['job_description']}")
+                            st.write(f"**Technical Skills**: {', '.join(job_data['required_skills']['technical_skills'])}")
+                            st.write(f"**Soft Skills**: {', '.join(job_data['required_skills']['soft_skills'])}")
+
+    # Display saved job description if it exists
+    if 'job_data' in st.session_state:
+        st.subheader("Current Job Description Stored")
+        st.write(f"**Job Title**: {st.session_state['job_data']['job_title']}")
+        st.write(f"**Job Description**: {st.session_state['job_data']['job_description']}")
+        st.write(f"**Technical Skills**: {', '.join(st.session_state['job_data']['required_skills']['technical_skills'])}")
+        st.write(f"**Soft Skills**: {', '.join(st.session_state['job_data']['required_skills']['soft_skills'])}")
+    
+    # File uploader for PDF resumes
+    uploaded_file = st.file_uploader(label='Upload PDF', type='pdf')
+
+    # Initialize session state variables
+    if 'text_ocr' not in st.session_state:
+        st.session_state.text_ocr = ''
+        st.session_state.information_ocr = {}
+        st.session_state.summary_ocr = ''
+    if 'merged_text' not in st.session_state:
+        st.session_state.merged_text = ''
+        st.session_state.enhanced_info = {}
+        st.session_state.final_summary = ''
+    if 'flag_processed' not in st.session_state:
+        st.session_state.flag_processed = False
+
+    # Process resume and display the extracted information + summary
+    if uploaded_file:
+        file_name = uploaded_file.name
+        row1col1, row1col2 = st.columns([1, 1])
+
+        # Column 1: OCR + PyPDFLoader Processing
+        with row1col1:
+            if st.button(label='OCR + PDF'):
+                with st.spinner("Processing resume with OCR and PyPDFLoader..."):
+                    st.session_state.merged_text, st.session_state.enhanced_info, st.session_state.final_summary = process_resume(uploaded_file)
+                    
+                    if st.session_state.merged_text:
+                        st.session_state.flag_processed = True
+                    else:
+                        st.error("Resume processing failed.")
+
+            if st.session_state.flag_processed:
+                st.subheader("Combined Extracted Text")
+                st.text_area("Combined Extracted Text", st.session_state.merged_text, height=300)
+                
+                st.subheader("Enhanced Information")
+                st.json(st.session_state.enhanced_info)
+
+        # Column 2: Candidate Summary
+        with row1col2:
+            if st.session_state.flag_processed:
+                st.subheader("Candidate Summary")
+                st.session_state.final_summary = gpt3_generate_summary(st.session_state.enhanced_info)
+                st.write(st.session_state.final_summary)
+
+if __name__ == '__main__':
+    main()
+
+
+if __name__ == '__main__':
+    main()
+
+# def main():
+    
+#     start_localtunnel(8501)
+    
+#     logging.basicConfig(level=logging.INFO)
+#     logger = logging.getLogger(__name__)
+    
+#     st.title('Enhanced Resume Information Extraction')
+#     uploaded_file = st.file_uploader(label='Upload PDF', type='pdf')
+    
+#     # URL input from recruiter
+#     url = st.text_input("Enter the job description URL:", "")
+    
+#     # Scrape and process job description
+#     if st.button("Scrape and Process Job Description"):
+#         if url:
+#             with st.spinner("Scraping job description..."):
+#                 job_text = scrape_job_description(url)
+                
+#                 if "error" in job_text:
+#                     st.error(f"Error: {job_text['error']}")
+#                 else:
+#                     # Use GPT to extract structured information
+#                     with st.spinner("Processing job description with GPT..."):
+#                         job_data = gpt3_extract_job_information(job_text)
+                        
+#                         if job_data:
+#                             # Save the job description to session state
+#                             st.session_state['job_data'] = job_data
+#                             st.success("Job description successfully processed!")
+
+#                             # Display the job description
+#                             st.write(f"**Job Title**: {job_data['job_title']}")
+#                             st.write(f"**Job Description**: {job_data['job_description']}")
+#                             st.write(f"**Technical Skills**: {', '.join(job_data['required_skills']['technical_skills'])}")
+#                             st.write(f"**Soft Skills**: {', '.join(job_data['required_skills']['soft_skills'])}")
+#                             st.write(f"**Experience Required**: {job_data['experience_required']}")
+#                             st.write(f"**Education Required**: {job_data['education_required']}")
+
+#     # Display saved job description if it exists
+#     if 'job_data' in st.session_state:
+#         st.subheader("Current Job Description Stored")
+#         st.write(f"**Job Title**: {st.session_state['job_data']['job_title']}")
+#         st.write(f"**Job Description**: {st.session_state['job_data']['job_description']}")
+#         st.write(f"**Technical Skills**: {', '.join(st.session_state['job_data']['required_skills']['technical_skills'])}")
+#         st.write(f"**Soft Skills**: {', '.join(st.session_state['job_data']['required_skills']['soft_skills'])}")
+#         st.write(f"**Experience Required**: {st.session_state['job_data']['experience_required']}")
+#         st.write(f"**Education Required**: {st.session_state['job_data']['education_required']}")
+    
+
+#     # Initialize session state variables
+#     if 'text_ocr' not in st.session_state:
+#         st.session_state.text_ocr = ''
+#         st.session_state.information_ocr = {}
+#         st.session_state.summary_ocr = ''
+
+#     if 'text_pypdf' not in st.session_state:
+#         st.session_state.text_pypdf = ''
+#         st.session_state.information_pypdf = {}
+
+#     if 'merged_text' not in st.session_state:
+#         st.session_state.merged_text = ''
+#         st.session_state.enhanced_info = {}
+#         st.session_state.final_summary = ''
+
+#     if 'flag_ocr' not in st.session_state:
+#         st.session_state.flag_ocr = False
+
+#     if 'flag_pypdf' not in st.session_state:
+#         st.session_state.flag_pypdf = False
+
+#     if 'flag_processed' not in st.session_state:
+#         st.session_state.flag_processed = False
+
+#     if uploaded_file:
+#         file_name = uploaded_file.name
+#         row0col2, row0col3 = st.columns([1, 1])
+
+#         # Column 1: OCR Processing
+#         # with row0col1:
+#         #     if st.button(label='Run OCR'):
+#         #         with st.spinner("Running OCR..."):
+#         #             st.session_state.text_ocr = extract_text_ocr(uploaded_file, show_boxes=False)
+#         #             st.session_state.information_ocr = gpt3_extract_information(st.session_state.text_ocr)
+#         #             st.session_state.summary_ocr = gpt3_generate_summary(st.session_state.information_ocr)
+                    
+#         #             if st.session_state.text_ocr:
+#         #                 st.session_state.flag_ocr = True
+#         #             else:
+#         #                 st.error("OCR extraction failed.")
+
+#         #     if st.session_state.flag_ocr:
+#         #         st.text_area("OCR Extracted Text", st.session_state.text_ocr, height=300)
+#         #         st.write("OCR Extracted Information:")
+#         #         st.json(st.session_state.information_ocr)
+#         #         st.write("OCR Summary:")
+#         #         st.write(st.session_state.summary_ocr)
+
+#         # Column 2: OCR + PyPDFLoader Processing
+#         with row0col2:
+#             if st.button(label='OCR + PDF'):
+#                 with st.spinner("Processing resume with OCR and PyPDFLoader..."):
+#                     st.session_state.merged_text, st.session_state.enhanced_info, st.session_state.final_summary = process_resume(uploaded_file)
+                    
+#                     if st.session_state.merged_text:
+#                         st.session_state.flag_processed = True
+#                     else:
+#                         st.error("Resume processing failed.")
+
+#             if st.session_state.flag_processed:
+#                 st.subheader("Combined Extracted Text")
+#                 st.text_area("Combined Extracted Text", st.session_state.merged_text, height=300)
+                
+#                 st.subheader("Enhanced Information")
+#                 st.json(st.session_state.enhanced_info)
+                
+#                 # st.subheader("Final Summary")
+#                 # st.write(st.session_state.final_summary)
+
+#         # Column 3: EasyOCR-Only Processing
+#         with row0col3:
+#             if st.button(label='EasyOCR'):
+#                 with st.spinner("Running EasyOCR..."):
+#                     st.session_state.text_ocr = extract_text_ocr(uploaded_file, file_name, show_boxes=False)
+#                     st.session_state.information_ocr = gpt3_extract_information(st.session_state.text_ocr)
+#                     st.session_state.summary_ocr = gpt3_generate_summary(st.session_state.information_ocr)
+                    
+#                     save_extracted_information(st.session_state.information_ocr, method='EasyOCR', file_name=file_name)
+                    
+#                     if st.session_state.text_ocr:
+#                         st.session_state.flag_ocr = True
+#                     else:
+#                         st.error("EasyOCR extraction failed.")
+
+#             if st.session_state.flag_ocr:
+#                 st.text_area("EasyOCR Extracted Text", st.session_state.text_ocr, height=300)
+#                 st.write("EasyOCR Extracted Information:")
+#                 st.json(st.session_state.information_ocr)
+#                 # st.write("EasyOCR Summary:")
+#                 # st.write(st.session_state.summary_ocr)
+
+
+
