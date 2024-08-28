@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/resume-extraction-comparison.git
-   cd resume-extraction-comparison
+   cd resume-processig
    ```
 
 2. **Install the required packages:**
