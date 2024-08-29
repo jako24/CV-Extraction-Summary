@@ -117,7 +117,3 @@ This project provides an advanced system for extracting and comparing resume dat
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This README should give a comprehensive overview of your project, its functionality, and how to get started with it.
