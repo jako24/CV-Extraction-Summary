@@ -100,16 +100,6 @@ The combined use of EasyOCR and PyPDFLoader provides a robust solution for resum
 - **Improved Accuracy:** Combining these methods enhances overall accuracy by leveraging their respective strengths.
 - **Comprehensive Extraction:** This approach captures more detailed information and reduces the likelihood of errors.
 
-## Advantages and Disadvantages of Using GPT-3.5 Turbo
-
-### Advantages:
-- **Balanced Performance:** Excels in reasoning and communication tasks.
-- **Cost-Effective:** Affordable and easy to integrate via API.
-- **Good Summarization:** Strong at generating coherent and insightful candidate summaries.
-
-### Disadvantages:
-- **Limited Domain-Specific Accuracy:** May not perform as well on highly technical or specialized resumes.
-
 ## Choosing the Right AI Model
 
 Consider a combination of models for optimal performance:
